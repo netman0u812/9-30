@@ -1,0 +1,832 @@
+﻿accountID,VpcId,subnets.Tags.Name,SubnetId,AvailabilityZone,AvailabilityZoneId,Tags.ApplicationName,Tags.applicationname.1,Tags.ItmpId,Tags.itpmid,CidrBlock
+014923028740,,,,,,,,,,
+195275680656,,,,,,,,,,
+202717921630,,,,,,,,,,
+272488701674,,,,,,,,,,
+356507925361,,,,,,,,,,
+390403897404,,,,,,,,,,
+419767593319,,,,,,,,,,
+476346260827,,,,,,,,,,
+559917904537,,,,,,,,,,
+688567263711,,,,,,,,,,
+913880039591,,,,,,,,,,
+994939539758,,,,,,,,,,
+738515142885,vpc-000f7d43f53a6345d,,subnet-0669c705103767ac4,us-east-1a,use1-az6,,,,,172.16.1.0/24
+738515142885,vpc-000f7d43f53a6345d,,subnet-0d79f8f87f98574b0,us-east-1d,use1-az4,,,,,172.16.0.0/24
+223445027183,vpc-010c22966c7d1b1fd,abc-test-public-us-east-1a,subnet-03907efeed6f1365c,us-east-1a,use1-az1,,,,,10.208.6.0/24
+223445027183,vpc-010c22966c7d1b1fd,abc-test-public-us-east-1c,subnet-06f21b9ccfb2f0629,us-east-1c,use1-az4,,,,,10.208.7.128/25
+223445027183,vpc-010c22966c7d1b1fd,abc-test-private-us-east-1c,subnet-08a015c13defae4be,us-east-1c,use1-az4,,,,,10.208.4.0/23
+223445027183,vpc-010c22966c7d1b1fd,abc-test-private-us-east-1a,subnet-0a94e74e74adc428a,us-east-1a,use1-az1,,,,,10.208.0.0/23
+223445027183,vpc-010c22966c7d1b1fd,abc-test-endpoint-private-us-east-1d,subnet-0ac1dfe98408c0610,us-east-1d,use1-az6,,,,,100.0.0.0/28
+223445027183,vpc-010c22966c7d1b1fd,abc-test-private-us-east-1b,subnet-0d7a5c87e03697698,us-east-1b,use1-az2,,,,,10.208.2.0/23
+223445027183,vpc-010c22966c7d1b1fd,abc-test-public-us-east-1b,subnet-0e11c01413b4ed1b1,us-east-1b,use1-az2,,,,,10.208.7.0/25
+939413442395,vpc-011ab79b30f52c0b9,,subnet-0a786ba61ff673144,us-east-1b,use1-az6,,,,,172.16.0.0/24
+939413442395,vpc-011ab79b30f52c0b9,,subnet-0cb2e9d0d113a6117,us-east-1a,use1-az4,,,,,172.16.1.0/24
+281560988170,vpc-011f81e50e495a182,avaneer-cvs-dev-az5,subnet-02f77f5461d13e71d,us-east-1f,use1-az5,,,,,10.173.39.64/27
+281560988170,vpc-011f81e50e495a182,avaneer-cvs-dev-az3,subnet-0696220ec25ade0e0,us-east-1e,use1-az3,,,,,10.173.39.32/27
+281560988170,vpc-011f81e50e495a182,avaneer-cvs-dev-az1,subnet-0ebadbe01a704b888,us-east-1b,use1-az1,,,,,10.173.39.0/27
+034362027823,vpc-0142e6ca150428193,subnet,subnet-065a11aa5ebfdd2aa,us-east-1c,use1-az6,,,,,10.174.193.0/25
+878352572871,vpc-01ae27e7f84a6a7bb,aetna-atc-private-subnet1-az3,subnet-082d0e9f956deb2fe,us-east-1e,use1-az3,,,,,10.174.199.0/25
+878352572871,vpc-01ae27e7f84a6a7bb,workload-subnet-1e,subnet-0932dd74299b56fb0,us-east-1e,use1-az3,,,,,100.64.192.0/18
+878352572871,vpc-01ae27e7f84a6a7bb,aetna-atc-private-subnet2-az6,subnet-0b1d53232b89016bc,us-east-1c,use1-az6,,,,,10.174.199.128/25
+878352572871,vpc-01ae27e7f84a6a7bb,workload-subnet-1a,subnet-0bc277472e2749af4,us-east-1a,use1-az2,,,,,100.64.0.0/18
+681570715880,vpc-021a0ee01b00a48ca,cse-test-subnet-private1-us-east-1a,subnet-02398142ada283172,us-east-1a,use1-az2,,,,,10.0.128.0/20
+681570715880,vpc-021a0ee01b00a48ca,cse-test-subnet-private2-us-east-1b,subnet-072d0ac4922ab0243,us-east-1b,use1-az4,,,,,10.0.144.0/20
+878352572871,vpc-029f851eca3944f1f,cloudcoe_subnet_lambda1,subnet-00ae2cb8da30daec6,us-east-1a,use1-az2,,,,,10.1.1.0/24
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1c,subnet-0588700da753d3087,us-east-1c,use1-az1,,,,,10.174.114.64/27
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1e,subnet-0613f20e6f3affcce,us-east-1e,use1-az3,,,,,10.174.114.128/27
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1a,subnet-08546bd562b0f3269,us-east-1a,use1-az4,,,,,10.174.114.0/27
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1f,subnet-099e6de6e8a208341,us-east-1f,use1-az5,,,,,10.174.114.160/27
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1d,subnet-0d791db0972efe71f,us-east-1d,use1-az2,,,,,10.174.114.96/27
+986603627198,vpc-02ea8691aa22440e5,ists-cybdef-public-use-1b,subnet-0f70efd6f1460ad14,us-east-1b,use1-az6,,,,,10.174.114.32/27
+034362027823,vpc-0325a995deb75abf8,subnet,subnet-0fc46c30cb61652f9,us-east-1b,use1-az4,,,,,10.174.194.128/25
+342374819998,vpc-032caa0345c302d7e,private-subnet-az4a,subnet-09c6cef72d37f9ce6,us-east-1a,use1-az4,,,,,10.173.21.64/27
+051741041246,vpc-0359625ffb6a82975,workload-proper-subnet-1,subnet-00f7558af2e891e75,us-east-1a,use1-az1,,,,,100.64.0.0/18
+051741041246,vpc-0359625ffb6a82975,workload-proper-subnet-4,subnet-027d976d510e4b880,us-east-1c,use1-az4,,,,,100.64.192.0/18
+051741041246,vpc-0359625ffb6a82975,new-private-1b,subnet-06b006be4fd49ccb2,us-east-1b,use1-az2,,,,,10.174.214.64/26
+051741041246,vpc-0359625ffb6a82975,new-private-1e,subnet-07722fec32e547c4b,us-east-1e,use1-az3,,,,,10.174.214.192/26
+051741041246,vpc-0359625ffb6a82975,workload-proper-subnet-2,subnet-079e2adf13ff44113,us-east-1e,use1-az3,,,,,100.64.64.0/18
+051741041246,vpc-0359625ffb6a82975,private-1e,subnet-0a554848284700dbf,us-east-1e,use1-az3,,,,,10.174.202.240/28
+051741041246,vpc-0359625ffb6a82975,new-private-1c,subnet-0b2019553500d55f4,us-east-1c,use1-az4,,,,,10.174.214.128/26
+051741041246,vpc-0359625ffb6a82975,private-1a,subnet-0b569714d10e80cd4,us-east-1a,use1-az1,,,,,10.174.202.192/28
+051741041246,vpc-0359625ffb6a82975,private-1b,subnet-0b89b1e0794398b55,us-east-1b,use1-az2,,,,,10.174.202.208/28
+051741041246,vpc-0359625ffb6a82975,new-private-1a,subnet-0c37d74eb057fbc49,us-east-1a,use1-az1,,,,,10.174.214.0/26
+051741041246,vpc-0359625ffb6a82975,workload-proper-subnet-3,subnet-0d1fa18108b911266,us-east-1e,use1-az3,,,,,100.64.128.0/18
+051741041246,vpc-0359625ffb6a82975,private-1c,subnet-0f17683d713b2e33f,us-east-1c,use1-az4,,,,,10.174.202.224/28
+281560988170,vpc-035ca6e0d8058d41d,BDAP-SN2,subnet-03dbbd006bb100336,us-east-1b,use1-az1,,,,,10.173.1.128/25
+281560988170,vpc-035ca6e0d8058d41d,BDAP-SN1,subnet-047ac85d4d2b2ee56,us-east-1a,use1-az6,,,,,10.173.1.0/25
+878352572871,vpc-0391e1247d5ecf39a,subnet-az1,subnet-05973f7da4a8c7200,us-east-1b,use1-az4,,,,,10.1.240.0/20
+738515142885,vpc-0439ef8cca83740e0,subnet-test-public-us-east-1a,subnet-01b010705fc8e7262,us-east-1a,use1-az6,,,,,10.208.231.0/25
+738515142885,vpc-0439ef8cca83740e0,subnet-test-private-us-east-1a,subnet-020b734467734ac03,us-east-1a,use1-az6,,,,,10.208.228.0/24
+738515142885,vpc-0439ef8cca83740e0,subnet-test-private-us-east-1c,subnet-04582e4849b0ede71,us-east-1c,use1-az2,,,,,10.208.229.0/24
+738515142885,vpc-0439ef8cca83740e0,subnet-test-secondary-private-us-east-1a,subnet-05b5b4d72e52ec426,us-east-1a,use1-az6,,,,,100.80.0.0/18
+738515142885,vpc-0439ef8cca83740e0,subnet-test-private-us-east-1d,subnet-084d2bf74f71fa491,us-east-1d,use1-az4,,,,,10.208.230.0/24
+738515142885,vpc-0439ef8cca83740e0,subnet-test-public-us-east-1c,subnet-09a4a60a7c190bfa3,us-east-1c,use1-az2,,,,,10.208.231.128/26
+738515142885,vpc-0439ef8cca83740e0,subnet-test-secondary-private-us-east-1d,subnet-0e09f8cf6f2e47f9b,us-east-1d,use1-az4,,,,,100.80.128.0/18
+738515142885,vpc-0439ef8cca83740e0,subnet-test-secondary-private-us-east-1c,subnet-0ebf49fcfda943282,us-east-1c,use1-az2,,,,,100.80.64.0/18
+738515142885,vpc-0439ef8cca83740e0,subnet-test-public-us-east-1d,subnet-0f7e7efd8c81ea25e,us-east-1d,use1-az4,,,,,10.208.231.192/26
+891377118879,vpc-044e6e3db5bc6df59,private-subnet-1c,subnet-0270998a61c6fc94f,us-east-1c,use1-az4,,,,,10.174.58.0/25
+012170750870,vpc-045dc7c59b730b4b1,workload-proper-subnet-us-east-1e,subnet-025bd2e0a929041fc,us-east-1e,use1-az3,,,,,100.64.128.0/18
+012170750870,vpc-045dc7c59b730b4b1,private-1c,subnet-04e07e8a1f31fefb8,us-east-1c,use1-az4,,,,,10.174.203.32/28
+012170750870,vpc-045dc7c59b730b4b1,workload-proper-subnet-1,subnet-04f26013fc8af85fe,us-east-1a,use1-az1,,,,,100.64.0.0/18
+012170750870,vpc-045dc7c59b730b4b1,private-1b,subnet-073733144f159621f,us-east-1b,use1-az2,,,,,10.174.203.16/28
+012170750870,vpc-045dc7c59b730b4b1,private-1e,subnet-08637df3fd5717fe1,us-east-1e,use1-az3,,,,,10.174.203.48/28
+012170750870,vpc-045dc7c59b730b4b1,new-private-1a,subnet-0b1b692eda46defc7,us-east-1a,use1-az1,,,,,10.174.210.0/26
+012170750870,vpc-045dc7c59b730b4b1,new-private-1e,subnet-0c8972e5a52e759b7,us-east-1e,use1-az3,,,,,10.174.210.128/26
+012170750870,vpc-045dc7c59b730b4b1,private-1a,subnet-0cf457662188f5c65,us-east-1a,use1-az1,,,,,10.174.203.0/28
+012170750870,vpc-045dc7c59b730b4b1,workload-proper-subnet-us-east-1c,subnet-0e63a0205f78ffc50,us-east-1c,use1-az4,,,,,100.64.192.0/18
+012170750870,vpc-045dc7c59b730b4b1,workload-proper-subnet-us-east-1b,subnet-0ed465d24ff71d1d9,us-east-1b,use1-az2,,,,,100.64.64.0/18
+342374819998,vpc-047d4b64afda92adf,k8s-eks-vpc-Subnet01,subnet-03c3498d459136751,us-east-1a,use1-az4,,,,,192.168.64.0/18
+342374819998,vpc-047d4b64afda92adf,k8s-eks-vpc-Subnet03,subnet-08c573b177cc8808f,us-east-1d,use1-az2,,,,,192.168.192.0/18
+342374819998,vpc-047d4b64afda92adf,k8s-eks-vpc-Subnet02,subnet-09ec28537838de78b,us-east-1b,use1-az6,,,,,192.168.128.0/18
+022396638744,vpc-04b3c717eca5f9c88,private-1a,subnet-0d142e8dc29933d8f,us-east-1a,use1-az1,,,,,10.174.201.0/26
+022396638744,vpc-04b3c717eca5f9c88,private-1b,subnet-0dc0e447723f5e7a5,us-east-1b,use1-az2,,,,,10.174.201.64/26
+760007728220,vpc-04e922981a553fdaf,workload-subnet-us-east-1b,subnet-010f1d96400d166ae,us-east-1b,use1-az2,,,,,100.64.64.0/18
+760007728220,vpc-04e922981a553fdaf,private-1b,subnet-01c2c9b8c33f15618,us-east-1b,use1-az2,,,,,10.174.202.16/28
+760007728220,vpc-04e922981a553fdaf,private-1e,subnet-027b8b324f27648f1,us-east-1e,use1-az3,,,,,10.174.202.48/28
+760007728220,vpc-04e922981a553fdaf,workloads-1e,subnet-0289ac6d4e05f17c6,us-east-1e,use1-az3,,,,,10.64.192.0/18
+760007728220,vpc-04e922981a553fdaf,workloads-1c,subnet-051b1f62569acad78,us-east-1c,use1-az4,,,,,10.64.128.0/18
+760007728220,vpc-04e922981a553fdaf,workload-subnet-us-east-1d,subnet-054108269782b1f00,us-east-1d,use1-az6,,,,,100.64.128.0/18
+760007728220,vpc-04e922981a553fdaf,workloads-1a,subnet-05b06ca1b6359b30c,us-east-1a,use1-az1,,,,,10.64.0.0/18
+760007728220,vpc-04e922981a553fdaf,workload-subnet-us-east-1e,subnet-080d1ba3d96040108,us-east-1e,use1-az3,,,,,100.64.192.0/18
+760007728220,vpc-04e922981a553fdaf,workload-subnet-us-east-1a,subnet-086cd7f5832051197,us-east-1a,use1-az1,,,,,100.64.0.0/18
+760007728220,vpc-04e922981a553fdaf,workloads-1b,subnet-0ab7cca761a006cd0,us-east-1b,use1-az2,,,,,10.64.64.0/18
+760007728220,vpc-04e922981a553fdaf,private-1c,subnet-0b3248f8d4e711dba,us-east-1c,use1-az4,,,,,10.174.202.32/28
+760007728220,vpc-04e922981a553fdaf,private-1a,subnet-0f5deda1eaa972b73,us-east-1a,use1-az1,,,,,10.174.202.0/28
+587821826049,vpc-05521facb0bbef14d,workload-proper-subnet-2,subnet-005a3a1522043ae63,us-east-1c,use1-az4,,,,,100.64.64.0/18
+587821826049,vpc-05521facb0bbef14d,private-1a-2,subnet-007e6a5f31b241df9,us-east-1a,use1-az1,,,,,10.174.201.128/26
+587821826049,vpc-05521facb0bbef14d,workload-subnet-us-east-1e,subnet-02c52a6473504b2aa,us-east-1e,use1-az3,,,,,10.64.192.0/18
+587821826049,vpc-05521facb0bbef14d,workload-subnet-us-east-1b,subnet-03163654ccc389dca,us-east-1b,use1-az2,,,,,10.64.64.0/18
+587821826049,vpc-05521facb0bbef14d,workload-subnet-us-east-1c,subnet-034fe0839d0853b19,us-east-1c,use1-az4,,,,,10.64.128.0/18
+587821826049,vpc-05521facb0bbef14d,private-1e-2,subnet-0532cfdb1f0799263,us-east-1e,use1-az3,,,,,10.174.201.192/26
+587821826049,vpc-05521facb0bbef14d,workload-proper-subnet-1,subnet-06ed9a34caf831b50,us-east-1b,use1-az2,,,,,100.64.0.0/18
+587821826049,vpc-05521facb0bbef14d,private-1a,subnet-0744c0428f195e481,us-east-1a,use1-az1,,,,,10.174.203.64/28
+587821826049,vpc-05521facb0bbef14d,private-1e,subnet-07f8400006968a24e,us-east-1e,use1-az3,,,,,10.174.203.112/28
+587821826049,vpc-05521facb0bbef14d,workload-subnet-us-east-1a,subnet-0873dafdb8eec3df4,us-east-1a,use1-az1,,,,,10.64.0.0/18
+587821826049,vpc-05521facb0bbef14d,workload-proper-subnet-3,subnet-094a8146567e5b98d,us-east-1b,use1-az2,,,,,100.64.128.0/18
+587821826049,vpc-05521facb0bbef14d,private-1c,subnet-09847d01dcfa4afb7,us-east-1c,use1-az4,,,,,10.174.203.96/28
+587821826049,vpc-05521facb0bbef14d,private-1b,subnet-0ebff5f0525416623,us-east-1b,use1-az2,,,,,10.174.203.80/28
+587821826049,vpc-05521facb0bbef14d,workload-proper-subnet-4,subnet-0fe06cab502032f04,us-east-1c,use1-az4,,,,,100.64.192.0/18
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-rfc1918-subnet-az1,subnet-029a34fdb410a054f,us-east-1b,use1-az2,,,,,10.207.106.0/27
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-rfc1918-subnet-az2,subnet-0d5f1c3de22148142,us-east-1f,use1-az5,,,,,10.207.106.32/27
+673876895479,vpc-061c662b005f6a0b3,zscaler-subnet-use1b,subnet-0104669e192bcaab3,us-east-1b,use1-az1,,,,,10.174.53.32/27
+673876895479,vpc-061c662b005f6a0b3,zscaler-subnet-use1a,subnet-07798be045b9a5d98,us-east-1a,use1-az6,,,,,10.174.53.0/27
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-public-us-east-1d,subnet-04b19a00495e046e2,us-east-1d,use1-az4,,,,,192.168.160.0/19
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-private-us-east-1d,subnet-059461b531ae6fbab,us-east-1d,use1-az4,,,,,192.168.64.0/19
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-private-us-east-1a,subnet-0690bba18e2c9a4e5,us-east-1a,use1-az6,,,,,192.168.0.0/19
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-private-us-east-1c,subnet-08d1f5318a99bb39e,us-east-1c,use1-az2,,,,,192.168.32.0/19
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-public-us-east-1c,subnet-0ca006d2fd7f2038c,us-east-1c,use1-az2,,,,,192.168.128.0/19
+248697187793,vpc-0685d6c71c30a3e2e,subnet-kafka-prod-public-us-east-1a,subnet-0f62c408940e1cb6e,us-east-1a,use1-az6,,,,,192.168.96.0/19
+356915518242,vpc-06986f54a6b672dd5,Computer Vision - Public,subnet-08033586f1178028e,us-east-1a,use1-az6,,,,,10.0.0.0/25
+034362027823,vpc-06b1bd5d26a848924,subnet,subnet-030277a1cc3099c4d,us-east-1d,use1-az1,,,,,10.174.195.128/25
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-public-us-east-1b,subnet-01c3818f9350f7f35,us-east-1b,use1-az1,,,,,10.208.243.128/26
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-public-us-east-1c,subnet-053188b1603ddf475,us-east-1c,use1-az2,,,,,10.208.243.192/26
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-private-us-east-1a,subnet-05f28b07258e724e9,us-east-1a,use1-az6,,,,,10.208.240.0/24
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-private-us-east-1c,subnet-087db4d1066041caf,us-east-1c,use1-az2,,,,,10.208.242.0/24
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-public-us-east-1a,subnet-090d666ff1e6901a7,us-east-1a,use1-az6,,,,,10.208.243.0/25
+142246712840,vpc-06de0424078b4dee0,abc-mgmt-private-us-east-1b,subnet-0a2402739f9443edf,us-east-1b,use1-az1,,,,,10.208.241.0/24
+637423222143,vpc-0705e2b5b9c30e2f6,VPC-CSE-Test-B2,subnet-076dcd67370aed488,us-east-1b,use1-az1,,,,,10.174.53.176/28
+637423222143,vpc-0705e2b5b9c30e2f6,VPC-CSE-Test-A2,subnet-0a67be8e5d589dcc3,us-east-1a,use1-az6,,,,,10.174.53.160/28
+637423222143,vpc-0705e2b5b9c30e2f6,VPC-CSE-Test-A1,subnet-0c4d3256070afa17b,us-east-1a,use1-az6,,,,,10.174.53.128/28
+637423222143,vpc-0705e2b5b9c30e2f6,VPC-CSE-Test-B1,subnet-0f718fc31a3877291,us-east-1b,use1-az1,,,,,10.174.53.144/28
+264787847721,vpc-073141325eebe14ee,private-1a,subnet-041bd9104d4ccbb7f,us-east-1a,use1-az1,,,,,10.174.217.0/26
+264787847721,vpc-073141325eebe14ee,private-1b,subnet-05d5c674b53308bb8,us-east-1b,use1-az2,,,,,10.174.217.64/26
+264787847721,vpc-073141325eebe14ee,private-1e,subnet-08b2095b51a034b18,us-east-1e,use1-az3,,,,,10.174.217.192/26
+264787847721,vpc-073141325eebe14ee,private-1c,subnet-0ff9c034c0350ae7f,us-east-1c,use1-az4,,,,,10.174.217.128/26
+878352572871,vpc-076630074fd0fa143,subnet-az6,subnet-0066c8a6f03415abe,us-east-1c,use1-az6,,,,,10.174.197.192/26
+878352572871,vpc-076630074fd0fa143,subnet-az2,subnet-0b4e36f2a951142ca,us-east-1a,use1-az2,,,,,10.174.197.128/26
+034362027823,vpc-0780b383d66967d84,subnet,subnet-0f19325d229407a47,us-east-1b,use1-az4,,,,,10.174.192.128/25
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-private-us-east-1a,subnet-0045b34b9513604d6,us-east-1a,use1-az4,,,,,10.208.64.0/24
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-public-us-east-1b,subnet-01bec5448b0da3a51,us-east-1b,use1-az6,,,,,10.208.67.64/26
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-private-us-east-1d,subnet-093d3cbac23c3ebda,us-east-1d,use1-az2,,,,,10.208.66.0/24
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-public-us-east-1a,subnet-09657a1c239af802a,us-east-1a,use1-az4,,,,,10.208.67.0/26
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-public-us-east-1d,subnet-0d49e9ec583006304,us-east-1d,use1-az2,,,,,10.208.67.128/26
+939413442395,vpc-07c4483839cbf5594,subnet-hc-mgmt-main-private-us-east-1b,subnet-0f396a801c32e0e33,us-east-1b,use1-az6,,,,,10.208.65.0/24
+543634432393,vpc-08283d554d8f81ce6,aetna-trxCache-dtcs-az3,subnet-00881c8cff823ecd4,us-east-1e,use1-az3,,,,,10.174.209.0/25
+543634432393,vpc-08283d554d8f81ce6,workload-subnet-1,subnet-0637ecc66cd425cb1,us-east-1d,use1-az2,,,,,100.64.0.0/18
+543634432393,vpc-08283d554d8f81ce6,workload-subnet-2,subnet-08edeea304d8c270e,us-east-1d,use1-az2,,,,,100.64.64.0/18
+543634432393,vpc-08283d554d8f81ce6,workload-subnet-4,subnet-0a22fceddb94da7c0,us-east-1d,use1-az2,,,,,100.64.192.0/18
+543634432393,vpc-08283d554d8f81ce6,workload-subnet-3,subnet-0a9b5491ec7c7fd3a,us-east-1a,use1-az4,,,,,100.64.128.0/18
+543634432393,vpc-08283d554d8f81ce6,aetna-trxCache-dtcs-az6,subnet-0c4d05b48f7ecec34,us-east-1b,use1-az6,,,,,10.174.209.128/25
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-public-us-east-1a,subnet-01caa7ad42547716d,us-east-1a,use1-az6,,,,,192.168.96.0/19
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-public-us-east-1d,subnet-0289ad175fc049986,us-east-1d,use1-az4,,,,,192.168.160.0/19
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-private-us-east-1d,subnet-05f0b8dbdeb7337ec,us-east-1d,use1-az4,,,,,192.168.64.0/19
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-private-us-east-1a,subnet-070da82c1af88f262,us-east-1a,use1-az6,,,,,192.168.0.0/19
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-public-us-east-1c,subnet-0a44bba8620e8cc8a,us-east-1c,use1-az2,,,,,192.168.128.0/19
+738515142885,vpc-0855f9c89349fd894,subnet-kafka-dev-private-us-east-1c,subnet-0fd448e65459c91e7,us-east-1c,use1-az2,,,,,192.168.32.0/19
+289427881889,vpc-089d35488a045a1fa,aft-subnet-1b,subnet-02072b20e611a72e6,us-east-1b,use1-az2,,,,,10.174.196.64/26
+289427881889,vpc-089d35488a045a1fa,gw-subnet-1a,subnet-040491985fdbb9196,us-east-1a,use1-az1,,,,,10.174.196.192/28
+289427881889,vpc-089d35488a045a1fa,aft-subnet-1a,subnet-057ef79b8867a1f97,us-east-1a,use1-az1,,,,,10.174.196.0/26
+289427881889,vpc-089d35488a045a1fa,gw-subnet-1b,subnet-06fcbc28c5547e5e7,us-east-1b,use1-az2,,,,,10.174.196.208/28
+034362027823,vpc-08cbcc6c06902cb41,subnet,subnet-0ce6a8fa8c2c7d9f7,us-east-1a,use1-az2,,,,,10.174.192.0/25
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-public-us-east-1d,subnet-009e3fe55aed7e53e,us-east-1d,use1-az4,,,,,192.168.160.0/19
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-public-us-east-1a,subnet-0511aca4f18c1b34f,us-east-1a,use1-az6,,,,,192.168.96.0/19
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-private-us-east-1a,subnet-074f062e9b964f7df,us-east-1a,use1-az6,,,,,192.168.0.0/19
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-private-us-east-1c,subnet-0842a97bb503b4308,us-east-1c,use1-az2,,,,,192.168.32.0/19
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-private-us-east-1d,subnet-0c0b51762c1209c83,us-east-1d,use1-az4,,,,,192.168.64.0/19
+738515142885,vpc-0908171efba96c12c,subnet-kafka-test-public-us-east-1c,subnet-0c2982de217cf1d56,us-east-1c,use1-az2,,,,,192.168.128.0/19
+833984276139,vpc-093270175a9bbf647,SecVpc-PrivateAZ3,subnet-0682ac693db77b347,us-east-1c,use1-az4,,,,,10.208.250.0/24
+833984276139,vpc-093270175a9bbf647,SecVpc-PrivateAZ2,subnet-07a39e9eb38612c95,us-east-1b,use1-az2,,,,,10.208.249.0/24
+833984276139,vpc-093270175a9bbf647,SecVpc-PrivateAZ1,subnet-0b362eb29e5390e19,us-east-1a,use1-az1,,,,,10.208.248.0/24
+833984276139,vpc-093270175a9bbf647,SecVpc-PublicAZ1,subnet-0cd0da27434360df0,us-east-1a,use1-az1,,,,,10.208.251.0/26
+833984276139,vpc-093270175a9bbf647,SecVpc-PublicAZ3,subnet-0d79b06f1f97dee98,us-east-1c,use1-az4,,,,,10.208.251.128/26
+892909574479,vpc-093270175a9bbf647,,subnet-0d79b06f1f97dee98,us-east-1b,use1-az4,,,,,10.208.251.128/26
+833984276139,vpc-093270175a9bbf647,SecVpc-PublicAZ2,subnet-0e46336df1f8e9291,us-east-1b,use1-az2,,,,,10.208.251.64/26
+281560988170,vpc-097e740b49825ec2c,avaneer-cvs-prod-vpc-az3,subnet-077e846e6098a5459,us-east-1e,use1-az3,,,,,10.173.39.160/27
+281560988170,vpc-097e740b49825ec2c,avaneer-cvs-prod-vpc-az5,subnet-08695b1204d99ffee,us-east-1f,use1-az5,,,,,10.173.39.192/27
+281560988170,vpc-097e740b49825ec2c,avaneer-cvs-prod-vpc-az1,subnet-09cbdff4b9100ccd2,us-east-1b,use1-az1,,,,,10.173.39.128/27
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-public-us-east-1d,subnet-02442d79963994133,us-east-1d,use1-az4,,,,,10.208.127.128/25
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-secondary-private-us-east-1a,subnet-0432491931deb1846,us-east-1a,use1-az6,,,,,100.70.0.0/18
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-private-us-east-1d,subnet-051ea21f50a98cb93,us-east-1d,use1-az4,,,,,10.208.124.0/23
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-public-us-east-1c,subnet-053fd0c43e01e4f18,us-east-1c,use1-az2,,,,,10.208.127.0/25
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-private-us-east-1c,subnet-070a99a80b91d5e9d,us-east-1c,use1-az2,,,,,10.208.122.0/23
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-private-us-east-1a,subnet-08622609cadf41be4,us-east-1a,use1-az6,,,,,10.208.120.0/23
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-secondary-private-us-east-1c,subnet-0b5df7be59f90e66d,us-east-1c,use1-az2,,,,,100.70.64.0/18
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-public-us-east-1a,subnet-0b63d8ad652ae96e6,us-east-1a,use1-az6,,,,,10.208.126.0/24
+738515142885,vpc-09bc760afa8eda81f,subnet-dev-secondary-private-us-east-1d,subnet-0f286ba792f41dd80,us-east-1d,use1-az4,,,,,100.70.128.0/18
+078646182389,vpc-09f0bb40766142b2d,subnet1-use1a,subnet-0076dcde88b473358,us-east-1a,use1-az2,,,,,10.174.200.0/25
+078646182389,vpc-09f0bb40766142b2d,subnet2-use1b,subnet-088e9a500f072be9c,us-east-1b,use1-az4,,,,,10.174.200.128/25
+034362027823,vpc-0a06aae761ac55551,subnet,subnet-082fdc370d3d492b1,us-east-1d,use1-az1,,,,,10.174.193.128/25
+823124425653,vpc-0a4200102d43d487a,private-az6,subnet-00e0c37a98c321bb5,us-east-1a,use1-az6,,,,,10.174.112.0/27
+823124425653,vpc-0a4200102d43d487a,gwlb-az1,subnet-03a6723efc2051936,us-east-1b,use1-az1,,,,,10.174.112.144/28
+823124425653,vpc-0a4200102d43d487a,mgmt-az1,subnet-04607e5f11285954d,us-east-1b,use1-az1,,,,,10.174.112.96/27
+823124425653,vpc-0a4200102d43d487a,private-az1,subnet-06f41aab1296bf566,us-east-1b,use1-az1,,,,,10.174.112.32/27
+823124425653,vpc-0a4200102d43d487a,gwlb-az6,subnet-07f8a894297c819b6,us-east-1a,use1-az6,,,,,10.174.112.128/28
+823124425653,vpc-0a4200102d43d487a,tgw-att-az1,subnet-0ab5c3f4fb2a27fc7,us-east-1b,use1-az1,,,,,10.174.112.176/28
+823124425653,vpc-0a4200102d43d487a,tgw-att-az6,subnet-0ba0f986d1bf19c96,us-east-1a,use1-az6,,,,,10.174.112.160/28
+823124425653,vpc-0a4200102d43d487a,mgmt-az6,subnet-0e530f1eede80241c,us-east-1a,use1-az6,,,,,10.174.112.64/27
+823124425653,vpc-0a84fa2d41de65bde,tgw-az6,subnet-014a4c244acafecd2,us-east-1a,use1-az6,,,,,10.174.18.0/28
+823124425653,vpc-0a84fa2d41de65bde,gwlb-az6,subnet-02c8145a84ca3e96c,us-east-1a,use1-az6,,,,,10.174.18.32/28
+823124425653,vpc-0a84fa2d41de65bde,private-az1-a,subnet-0366b5912273155d9,us-east-1b,use1-az1,,,,,10.174.16.128/25
+823124425653,vpc-0a84fa2d41de65bde,public-az6,subnet-07196368b1c12845c,us-east-1a,use1-az6,,,,,10.174.17.0/25
+823124425653,vpc-0a84fa2d41de65bde,gwlb-az1,subnet-07c344ea3b2cb378a,us-east-1b,use1-az1,,,,,10.174.18.48/28
+823124425653,vpc-0a84fa2d41de65bde,private-az6-a,subnet-0912cef307a8b3f36,us-east-1a,use1-az6,,,,,10.174.16.0/25
+823124425653,vpc-0a84fa2d41de65bde,public-az1,subnet-09d08a8128c549f2c,us-east-1b,use1-az1,,,,,10.174.17.128/25
+823124425653,vpc-0a84fa2d41de65bde,tgw-az1,subnet-09ff6b2a6b14b154e,us-east-1b,use1-az1,,,,,10.174.18.16/28
+823124425653,vpc-0ac27f7d78f31b40b,ingress-tgw-att-az1,subnet-0001b2b7ff701969b,us-east-1a,use1-az6,,,,,10.174.3.48/28
+823124425653,vpc-0ac27f7d78f31b40b,private-az1-a,subnet-00badd6b992903be5,us-east-1b,use1-az1,,,,,10.174.0.128/25
+823124425653,vpc-0ac27f7d78f31b40b,private-az1-b,subnet-06fb27e9189fa7a6e,us-east-1b,use1-az1,,,,,10.174.2.128/25
+823124425653,vpc-0ac27f7d78f31b40b,public-az6,subnet-0705d65f98baf3711,us-east-1a,use1-az6,,,,,10.174.1.0/25
+823124425653,vpc-0ac27f7d78f31b40b,private-az6-a,subnet-085183216bd5c128b,us-east-1a,use1-az6,,,,,10.174.0.0/25
+823124425653,vpc-0ac27f7d78f31b40b,gwlb-az6,subnet-0b2dc59565b8079ef,us-east-1a,use1-az6,,,,,10.174.3.0/28
+823124425653,vpc-0ac27f7d78f31b40b,public-az1,subnet-0cf351f6f8b58c57f,us-east-1b,use1-az1,,,,,10.174.1.128/25
+823124425653,vpc-0ac27f7d78f31b40b,gwlb-az1,subnet-0d37d43d927694c0b,us-east-1b,use1-az1,,,,,10.174.3.16/28
+823124425653,vpc-0ac27f7d78f31b40b,ingress-tgw-att-az6,subnet-0dba1786c16227ce2,us-east-1b,use1-az1,,,,,10.174.3.32/28
+823124425653,vpc-0ac27f7d78f31b40b,private-az6-b,subnet-0f7c24eccc44ca0c6,us-east-1a,use1-az6,,,,,10.174.2.0/25
+911532748234,vpc-0acf76f983965500a,private-1b,subnet-00423a75ad7cdc62a,us-east-1b,use1-az2,,,,,10.174.202.80/28
+911532748234,vpc-0acf76f983965500a,workloads-1b,subnet-017cd31fdb29b3944,us-east-1b,use1-az2,,,,,10.64.64.0/18
+911532748234,vpc-0acf76f983965500a,private-1a,subnet-01fc1f84f3fa70eb2,us-east-1a,use1-az1,,,,,10.174.202.64/28
+911532748234,vpc-0acf76f983965500a,workloads-1a,subnet-026ea520bd3d80b9a,us-east-1a,use1-az1,,,,,10.64.0.0/18
+911532748234,vpc-0acf76f983965500a,workloads-1e,subnet-03a9877f0368ea5bf,us-east-1e,use1-az3,,,,,10.64.192.0/18
+911532748234,vpc-0acf76f983965500a,workload-subnet-1,subnet-0538c85342d0d8ad4,us-east-1c,use1-az4,,,,,100.64.0.0/18
+911532748234,vpc-0acf76f983965500a,workload-subnet-4,subnet-09ada851aa2bc015f,us-east-1a,use1-az1,,,,,100.64.192.0/18
+911532748234,vpc-0acf76f983965500a,private-1e,subnet-0b0856f062933866b,us-east-1e,use1-az3,,,,,10.174.202.112/28
+911532748234,vpc-0acf76f983965500a,private-1c,subnet-0bcbeb9f8603e19e3,us-east-1c,use1-az4,,,,,10.174.202.96/28
+911532748234,vpc-0acf76f983965500a,workload-subnet-2,subnet-0e58338f8f03141f9,us-east-1b,use1-az2,,,,,100.64.64.0/18
+911532748234,vpc-0acf76f983965500a,workload-subnet-3,subnet-0e99b6fda90c69c72,us-east-1b,use1-az2,,,,,100.64.128.0/18
+911532748234,vpc-0acf76f983965500a,workloads-1c,subnet-0efe10dfd5ea006cb,us-east-1c,use1-az4,,,,,10.64.128.0/18
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-secondary-private-us-east-1a,subnet-00b3027729b681c6c,us-east-1a,use1-az6,,,,,100.90.0.0/18
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-private-us-east-1c,subnet-037087bd2d7778b8a,us-east-1c,use1-az2,,,,,10.208.234.0/23
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-private-us-east-1d,subnet-04f9b0b511931f515,us-east-1d,use1-az4,,,,,10.208.236.0/23
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-secondary-private-us-east-1d,subnet-064d72a28bfcdef85,us-east-1d,use1-az4,,,,,100.90.128.0/18
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-public-us-east-1c,subnet-0690fa26016935dd3,us-east-1c,use1-az2,,,,,10.208.239.0/25
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-public-us-east-1a,subnet-09434c0311e156793,us-east-1a,use1-az6,,,,,10.208.238.0/24
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-public-us-east-1d,subnet-0954ff2d91bb1e7da,us-east-1d,use1-az4,,,,,10.208.239.128/25
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-private-us-east-1a,subnet-0ad3668b8425c6236,us-east-1a,use1-az6,,,,,10.208.232.0/23
+248697187793,vpc-0b15d674f07bfc5d6,subnet-prod-secondary-private-us-east-1c,subnet-0d0871465a782294f,us-east-1c,use1-az2,,,,,100.90.64.0/18
+034362027823,vpc-0b1a1d05c7260a9fb,subnet,subnet-0968d214fed36c8da,us-east-1c,use1-az6,,,,,10.174.195.0/25
+730335560841,vpc-0b820f72735f91636,CSE-CCF-ENDPOINTS-B,subnet-01af1e4e9153df433,us-east-1b,use1-az4,,,,,10.174.56.64/26
+730335560841,vpc-0b820f72735f91636,CSE-CCF-ENDPOINTS-A,subnet-01ecd339ee48246a1,us-east-1a,use1-az2,,,,,10.174.56.0/26
+730335560841,vpc-0b820f72735f91636,CSE-CCF-WORKERS-A,subnet-026f02a958a2cc770,us-east-1a,use1-az2,,,,,10.174.56.128/28
+730335560841,vpc-0b820f72735f91636,CSE-SHAREDSVC-SUBNET-A,subnet-03d67fbd7e17ba574,us-east-1a,use1-az2,,,,,10.174.57.64/27
+730335560841,vpc-0b820f72735f91636,CSE-SHAREDSVC-SUBNET-B,subnet-06fcda2a4d127e0b1,us-east-1b,use1-az4,,,,,10.174.57.96/27
+730335560841,vpc-0b820f72735f91636,CSE-DC-SUBNET-C,subnet-0bb319f56070d5bf5,us-east-1c,use1-az6,,,,,10.174.57.128/27
+730335560841,vpc-0b820f72735f91636,CSE-CCF-WORKERS-B,subnet-0bdf09ffa0ad45bac,us-east-1b,use1-az4,,,,,10.174.56.144/28
+730335560841,vpc-0b820f72735f91636,CSE-DC-SUBNET-A,subnet-0c54ba29879f69c84,us-east-1a,use1-az2,,,,,10.174.57.0/27
+730335560841,vpc-0b820f72735f91636,CSE-CCF-WORKERS-A-2,subnet-0d931b790d08a8012,us-east-1a,use1-az2,,,,,10.174.56.192/26
+730335560841,vpc-0b820f72735f91636,CSE-DC-SUBNET-B,subnet-0e029e0c6cd5682fd,us-east-1b,use1-az4,,,,,10.174.57.32/27
+823124425653,vpc-0b8ddd32dfd312bed,vpc-prod-egress-private-subnet-az2,subnet-054e0adcc58d0b42e,us-east-1c,use1-az2,,,,,10.174.198.64/26
+823124425653,vpc-0b8ddd32dfd312bed,vpc-prod-egress-private-subnet-az1,subnet-0fe663adb8e14adea,us-east-1b,use1-az1,,,,,10.174.198.0/26
+356915518242,vpc-0bb809cc600b7cebd,public-identity,subnet-0dbc7d65682d33ba4,us-east-1c,use1-az2,,,,,174.0.1.0/24
+751510979653,vpc-0bcc7524edf501ecc,subnet-az1,subnet-06d9d8cb4a94d918a,us-east-1a,use1-az1,,,,,10.0.0.0/24
+751510979653,vpc-0bcc7524edf501ecc,kong-vpc-pub-Sub-az2,subnet-0beca9323e0995eb9,us-east-1b,use1-az2,,,,,10.0.2.0/24
+751510979653,vpc-0bcc7524edf501ecc,subnet-az2,subnet-0f7fcb066aaa97644,us-east-1b,use1-az2,,,,,10.0.1.0/24
+730335560841,vpc-0be6c5217d4612e33,VPC-CSE-Test-B1,subnet-08db4fc4928113942,us-east-1b,use1-az4,,,,,10.174.53.208/28
+730335560841,vpc-0be6c5217d4612e33,VPC-CSE-Test-A1,subnet-0cec1dd1dcfda842a,us-east-1a,use1-az2,,,,,10.174.53.192/28
+730335560841,vpc-0be6c5217d4612e33,VPC-CSE-Test-A2,subnet-0db813e8888c693fc,us-east-1a,use1-az2,,,,,10.174.53.224/28
+730335560841,vpc-0be6c5217d4612e33,VPC-CSE-Test-B2,subnet-0f02e8646386d13c3,us-east-1b,use1-az4,,,,,10.174.53.240/28
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az4,subnet-00f55daee53ef89e8,us-east-1d,use1-az4,,,,,10.174.47.64/28
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az5,subnet-01c6d3968cf3b47ed,us-east-1f,use1-az5,,,,,10.174.47.80/28
+823124425653,vpc-0c1eeeb6500f49bf7,private-az6-a,subnet-0263bc6ec77530519,us-east-1a,use1-az6,,,,,10.174.32.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az6-b,subnet-043e6a6c89f2f36c0,us-east-1a,use1-az6,,,,,10.174.38.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az5-b,subnet-0511342d695fbf47e,us-east-1f,use1-az5,,,,,10.174.43.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az3,subnet-05aba0102705137b1,us-east-1e,use1-az3,,,,,10.174.47.16/28
+823124425653,vpc-0c1eeeb6500f49bf7,private-az4-b,subnet-0699dd4a4a0a02a4f,us-east-1d,use1-az4,,,,,10.174.42.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az4-a,subnet-06e542c121e66d853,us-east-1d,use1-az4,,,,,10.174.36.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az5-a,subnet-08eba153421d567de,us-east-1f,use1-az5,,,,,10.174.37.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az1-b,subnet-0907bc84f6289c875,us-east-1b,use1-az1,,,,,10.174.40.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az6,subnet-0a407a377714e81ec,us-east-1a,use1-az6,,,,,10.174.47.0/28
+823124425653,vpc-0c1eeeb6500f49bf7,private-az3-a,subnet-0b468f236c7c95040,us-east-1e,use1-az3,,,,,10.174.33.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az1,subnet-0cf22bc7c6a256d90,us-east-1b,use1-az1,,,,,10.174.47.32/28
+823124425653,vpc-0c1eeeb6500f49bf7,tgw-az2,subnet-0d30ef426b7a429d3,us-east-1c,use1-az2,,,,,10.174.47.48/28
+823124425653,vpc-0c1eeeb6500f49bf7,private-az2-a,subnet-0eb0ff45b5369f1ee,us-east-1c,use1-az2,,,,,10.174.35.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az2-b,subnet-0fb10f2633972d064,us-east-1c,use1-az2,,,,,10.174.41.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az1-a,subnet-0fb4318e96227ce60,us-east-1b,use1-az1,,,,,10.174.34.0/24
+823124425653,vpc-0c1eeeb6500f49bf7,private-az3-b,subnet-0fdd3036d52a1ab90,us-east-1e,use1-az3,,,,,10.174.39.0/24
+253525104438,vpc-0c2aa5ce44d203d5d,avaneer-aetna-prod-az1,subnet-01b9f6f76c500a9e7,us-east-1c,use1-az1,,,,,10.208.241.0/27
+253525104438,vpc-0c2aa5ce44d203d5d,avaneer-aetna-prod-az5,subnet-078e821c2ad2e741e,us-east-1f,use1-az5,,,,,10.208.241.64/27
+253525104438,vpc-0c2aa5ce44d203d5d,avaneer-aetna-prod-az3,subnet-0d94f4ba466e3ae2f,us-east-1e,use1-az3,,,,,10.208.241.32/27
+034362027823,vpc-0c68045c46cf94bd9,subnet,subnet-015c3a7ad6d1d9ab4,us-east-1a,use1-az2,,,,,10.174.194.0/25
+223445027183,vpc-0d0247f514c2c8391,abc-dev-public-us-east-1a,subnet-00ac8d7672ec03b3b,us-east-1a,use1-az1,,,,,10.208.247.0/25
+223445027183,vpc-0d0247f514c2c8391,abc-dev-private-us-east-1b,subnet-01b74d63034024c8d,us-east-1b,use1-az2,,,,,10.208.245.0/24
+223445027183,vpc-0d0247f514c2c8391,abc-dev-public-us-east-1b,subnet-01cb396967c403551,us-east-1b,use1-az2,,,,,10.208.247.128/26
+223445027183,vpc-0d0247f514c2c8391,abc-dev-endpoint-private-us-east-1d,subnet-05aa01156b4ffede7,us-east-1d,use1-az6,,,,,100.0.0.0/28
+223445027183,vpc-0d0247f514c2c8391,abc-dev-public-us-east-1c,subnet-08a9921294fa5e99f,us-east-1c,use1-az4,,,,,10.208.247.192/26
+223445027183,vpc-0d0247f514c2c8391,abc-dev-private-us-east-1a,subnet-0a5af2fe3579f31be,us-east-1a,use1-az1,,,,,10.208.244.0/24
+223445027183,vpc-0d0247f514c2c8391,abc-dev-private-us-east-1c,subnet-0d9a7f6a8670d4c4b,us-east-1c,use1-az4,,,,,10.208.246.0/24
+672623134717,vpc-0d3beff493937f360,abc-etldev-public-us-east-1b,subnet-0012619ca499839d1,us-east-1b,use1-az2,,,,,10.208.23.0/25
+672623134717,vpc-0d3beff493937f360,abc-etldev-private-us-east-1b,subnet-00b104cc4b4b48e51,us-east-1b,use1-az2,,,,,10.208.18.0/23
+672623134717,vpc-0d3beff493937f360,abc-etldev-private-us-east-1c,subnet-0318496e0dc1ee7db,us-east-1c,use1-az4,,,,,10.208.20.0/23
+672623134717,vpc-0d3beff493937f360,abc-etldev-public-us-east-1c,subnet-03bf9c33cc43a060d,us-east-1c,use1-az4,,,,,10.208.23.128/25
+672623134717,vpc-0d3beff493937f360,abc-etldev-private-us-east-1a,subnet-064b580b61c16f5e2,us-east-1a,use1-az1,,,,,10.208.16.0/23
+672623134717,vpc-0d3beff493937f360,abc-etldev-public-us-east-1a,subnet-06838950ba49ced85,us-east-1a,use1-az1,,,,,10.208.22.0/24
+639116910716,vpc-0d4feb1e0699cd8cb,subnet-deid-2-private-us-east-1b,subnet-0370fcc4a97e5007e,us-east-1b,use1-az4,,,,,10.208.220.96/28
+639116910716,vpc-0d4feb1e0699cd8cb,subnet-deid-2-private-us-east-1a,subnet-0456b4ecd6a256d24,us-east-1a,use1-az2,,,,,10.208.220.64/27
+639116910716,vpc-0d4feb1e0699cd8cb,subnet-deid-2-public-us-east-1a,subnet-0c1488c03d74a33ea,us-east-1a,use1-az2,,,,,10.208.220.112/28
+192606545764,vpc-0dd5d719c4f33ef0c,private-1a,subnet-0124587198f313763,us-east-1a,use1-az1,,,,,10.174.202.128/28
+192606545764,vpc-0dd5d719c4f33ef0c,workload-subnet-3,subnet-021f2310543f20217,us-east-1a,use1-az1,,,,,100.64.128.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,workloads-1b,subnet-03abf64f121b05fa5,us-east-1b,use1-az2,,,,,10.64.64.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,workload-subnet-2,subnet-0705dfca5fd74c37f,us-east-1a,use1-az1,,,,,100.64.64.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,private-1e,subnet-087ff278550f96488,us-east-1e,use1-az3,,,,,10.174.202.176/28
+192606545764,vpc-0dd5d719c4f33ef0c,workloads-1a,subnet-09584c1cc132faf4c,us-east-1a,use1-az1,,,,,10.64.0.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,workloads-1c,subnet-09ee279b51fc4acdf,us-east-1c,use1-az4,,,,,10.64.128.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,workloads-1e,subnet-0c3af00b4a911a6bc,us-east-1e,use1-az3,,,,,10.64.192.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,private-1c,subnet-0ec9a76862507058f,us-east-1c,use1-az4,,,,,10.174.202.160/28
+192606545764,vpc-0dd5d719c4f33ef0c,workload-subnet-1,subnet-0f7865b762b436582,us-east-1a,use1-az1,,,,,100.64.0.0/18
+192606545764,vpc-0dd5d719c4f33ef0c,private-1b,subnet-0fcae844931754b52,us-east-1b,use1-az2,,,,,10.174.202.144/28
+192606545764,vpc-0dd5d719c4f33ef0c,workload-subnet-4,subnet-0feb6bc53c71cd7bf,us-east-1c,use1-az4,,,,,100.64.192.0/18
+761168893158,vpc-0dde43f9fc450acc1,rta-avaneer-dev-vpc-b,subnet-08b03862b6eb30c13,us-east-1b,use1-az4,,,,,10.174.32.64/26
+761168893158,vpc-0dde43f9fc450acc1,rta-avaneer-dev-vpc-a,subnet-0ca615775d74967c4,us-east-1a,use1-az2,,,,,10.174.32.0/26
+891377118879,vpc-0df298f5fcfe37e86,private-subnet-1c,subnet-0f3421d9e0b3421b7,us-east-1c,use1-az4,,,,,10.174.59.0/25
+125814533773,vpc-0dff9a7f995c58656,private-1b,subnet-0ce512f896a02df5d,us-east-1b,use1-az2,,,,,10.174.215.64/26
+125814533773,vpc-0dff9a7f995c58656,private-1a,subnet-0db80327b48736528,us-east-1a,use1-az1,,,,,10.174.215.0/26
+637423222143,vpc-0edd72fd87467aafb,CSE-DC-SUBNET-B,subnet-0015b3e93171d3e33,us-east-1b,use1-az1,,,,,10.174.61.32/27
+637423222143,vpc-0edd72fd87467aafb,CSE-SHAREDSVC-SUBNET-A,subnet-02a1bf554f635be54,us-east-1a,use1-az6,,,,,10.174.61.64/27
+637423222143,vpc-0edd72fd87467aafb,CSE-SHAREDSVC-SUBNET-B,subnet-05372dec54c5ae508,us-east-1b,use1-az1,,,,,10.174.61.96/27
+637423222143,vpc-0edd72fd87467aafb,CSE-DC-SUBNET-C,subnet-05984a7831747625c,us-east-1c,use1-az2,,,,,10.174.61.128/25
+637423222143,vpc-0edd72fd87467aafb,CSE-DC-SUBNET-D,subnet-06009b4d229ccf3d3,us-east-1a,use1-az6,,,,,10.174.60.192/26
+637423222143,vpc-0edd72fd87467aafb,CSE-CCF-ENDPOINTS-B,subnet-07c43dc6d9d2d29e9,us-east-1b,use1-az1,,,,,10.174.60.64/26
+637423222143,vpc-0edd72fd87467aafb,CSE-CCF-WORKERS-A,subnet-0a8c18c10da34b5d7,us-east-1a,use1-az6,,,,,10.174.60.128/28
+637423222143,vpc-0edd72fd87467aafb,CSE-CCF-WORKERS-B,subnet-0bd8b0d032d617c1c,us-east-1b,use1-az1,,,,,10.174.60.144/28
+637423222143,vpc-0edd72fd87467aafb,CSE-CCF-ENDPOINTS-A,subnet-0e789cae7fbf977b5,us-east-1a,use1-az6,,,,,10.174.60.0/26
+637423222143,vpc-0edd72fd87467aafb,CSE-DC-SUBNET-A,subnet-0fbc646d2e0a14cc5,us-east-1a,use1-az6,,,,,10.174.61.0/27
+639116910716,vpc-0f64acb0de5566cd7,subnet-deid-1-private-us-east-1a-extended,subnet-00ec96a60c2cf80bc,us-east-1a,use1-az2,,,,,10.208.38.0/23
+639116910716,vpc-0f64acb0de5566cd7,subnet-deid-1-private-us-east-1b,subnet-03253ff4783934866,us-east-1b,use1-az4,,,,,10.208.220.32/28
+639116910716,vpc-0f64acb0de5566cd7,subnet-deid-1-private-us-east-1a,subnet-0d674f999f73df2dc,us-east-1a,use1-az2,,,,,10.208.220.0/27
+639116910716,vpc-0f64acb0de5566cd7,subnet-deid-1-public-us-east-1a,subnet-0db3a23d149ae8a62,us-east-1a,use1-az2,,,,,10.208.220.48/28
+354918409823,vpc-0f83c99634671adf0,future4,subnet-011606105247eaffc,us-east-1f,use1-az5,,,,,10.174.72.0/24
+354918409823,vpc-0f83c99634671adf0,future2,subnet-0123079ab7d4ffe8c,us-east-1c,use1-az6,,,,,10.174.73.0/24
+354918409823,vpc-0f83c99634671adf0,Public-OceanPipe1,subnet-0383dad2408053b13,us-east-1a,use1-az2,,,,,10.174.79.224/28
+354918409823,vpc-0f83c99634671adf0,Public-OceanPipe2,subnet-06f7b0c2756b96456,us-east-1b,use1-az4,,,,,10.174.79.240/28
+354918409823,vpc-0f83c99634671adf0,future1,subnet-08e19002fcf362c72,us-east-1d,use1-az1,,,,,10.174.64.0/23
+354918409823,vpc-0f83c99634671adf0,Oceanpipe,subnet-08e25205e0dd04075,us-east-1a,use1-az2,,,,,10.174.66.0/23
+354918409823,vpc-0f83c99634671adf0,Oceanview,subnet-0a5695f3ca19bc960,us-east-1a,use1-az2,,,,,10.174.75.0/24
+354918409823,vpc-0f83c99634671adf0,future3,subnet-0c9cb9fb2adccdbf5,us-east-1e,use1-az3,,,,,10.174.68.0/23
+354918409823,vpc-0f83c99634671adf0,Oceanevents,subnet-0ea09c230476a6091,us-east-1d,use1-az1,,,,,10.174.74.0/24
+354918409823,vpc-0f83c99634671adf0,Oceandata,subnet-0ffb73fdf3733ff7e,us-east-1b,use1-az4,,,,,10.174.70.0/23
+639116910716,vpc-0f87b308437ce72a2,abc-prod-private-us-east-1b,subnet-028d1f2d72f2444c4,us-east-1b,use1-az4,,,,,10.208.77.0/24
+639116910716,vpc-0f87b308437ce72a2,abc-prod-endpoint-private-us-east-1d,subnet-03c1a390233af4988,us-east-1d,use1-az1,,,,,100.0.0.0/28
+639116910716,vpc-0f87b308437ce72a2,abc-prod-public-us-east-1b,subnet-04a0c82865619d271,us-east-1b,use1-az4,,,,,10.208.79.128/26
+639116910716,vpc-0f87b308437ce72a2,abc-prod-public-us-east-1a,subnet-051e0b9f7f61574be,us-east-1a,use1-az2,,,,,10.208.79.0/25
+639116910716,vpc-0f87b308437ce72a2,abc-prod-public-us-east-1c,subnet-088bb860e15ab3333,us-east-1c,use1-az6,,,,,10.208.79.192/26
+639116910716,vpc-0f87b308437ce72a2,abc-prod-private-us-east-1a,subnet-09bb41acc51c95a75,us-east-1a,use1-az2,,,,,10.208.76.0/24
+639116910716,vpc-0f87b308437ce72a2,abc-prod-private-us-east-1c,subnet-0d52752529ffb87fa,us-east-1c,use1-az6,,,,,10.208.78.0/24
+841269668234,vpc-0fd94f38733d685f4,public_az2,subnet-01f78f6b74a60575f,us-east-1b,use1-az4,,,,,10.208.106.208/28
+841269668234,vpc-0fd94f38733d685f4,private_az2,subnet-033a8523346a898de,us-east-1b,use1-az4,,,,,10.208.106.64/26
+841269668234,vpc-0fd94f38733d685f4,private_az3,subnet-042cfdd4b4cae548d,us-east-1c,use1-az6,,,,,10.208.106.128/26
+841269668234,vpc-0fd94f38733d685f4,public_az3,subnet-070b81f7aac889eb2,us-east-1c,use1-az6,,,,,10.208.106.224/28
+841269668234,vpc-0fd94f38733d685f4,private_az1,subnet-09a8683cb7c9e75bb,us-east-1a,use1-az2,,,,,10.208.106.0/26
+841269668234,vpc-0fd94f38733d685f4,public_az1,subnet-0d668b8b3df403980,us-east-1a,use1-az2,,,,,10.208.106.192/28
+823124425653,vpc-0ff4aff6cca5b59ab,private-az4,subnet-02a21ee9bd74e5161,us-east-1d,use1-az4,,,,,10.174.100.0/24
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az6,subnet-043d369b85893e1a2,us-east-1a,use1-az6,,,,,10.174.111.0/28
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az2,subnet-06dc9ab5a980f51ec,us-east-1c,use1-az2,,,,,10.174.111.48/28
+823124425653,vpc-0ff4aff6cca5b59ab,private-az3,subnet-0b2bc42568ae9ae15,us-east-1e,use1-az3,,,,,10.174.97.0/24
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az5,subnet-0b30c858ad69d14a7,us-east-1f,use1-az5,,,,,10.174.111.80/28
+823124425653,vpc-0ff4aff6cca5b59ab,private-az1,subnet-0ca449ecc2f3f6470,us-east-1b,use1-az1,,,,,10.174.98.0/24
+823124425653,vpc-0ff4aff6cca5b59ab,private-az2,subnet-0d96392f644f2b9c7,us-east-1c,use1-az2,,,,,10.174.99.0/24
+823124425653,vpc-0ff4aff6cca5b59ab,private-az5,subnet-0e1b206c2f7fe477b,us-east-1f,use1-az5,,,,,10.174.101.0/24
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az4,subnet-0e3b5f2a760797825,us-east-1d,use1-az4,,,,,10.174.111.64/28
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az1,subnet-0f8cc6ea9e1be7248,us-east-1b,use1-az1,,,,,10.174.111.32/28
+823124425653,vpc-0ff4aff6cca5b59ab,tgw-az3,subnet-0fb34742094e6d911,us-east-1e,use1-az3,,,,,10.174.111.16/28
+900846234612,vpc-2d104255,CodeDeployBGStack-s52gl70,subnet-a95b1acd,us-east-1d,use1-az1,,,,,172.31.0.0/24
+253525104438,vpc-4720383f,Container-Prod-1a,subnet-191c2252,us-east-1a,use1-az4,,,,,10.208.188.0/24
+253525104438,vpc-4720383f,Container-Prod-1b,subnet-4b1d6816,us-east-1b,use1-az6,,,,,10.208.189.0/24
+253525104438,vpc-69be6512,FWExt-1b,subnet-05e9b558,us-east-1b,use1-az6,,,,,10.208.82.128/25
+253525104438,vpc-69be6512,F5VIP-1b,subnet-5cefb301,us-east-1b,use1-az6,,,,,10.208.96.0/23
+253525104438,vpc-69be6512,FWInt-1a,subnet-6600e02c,us-east-1a,use1-az4,,,,,10.208.83.0/25
+253525104438,vpc-69be6512,F5VIP-1a,subnet-703ede3a,us-east-1a,use1-az4,,,,,10.208.84.0/23
+253525104438,vpc-69be6512,FWInt-1b,subnet-7ce4b821,us-east-1b,use1-az6,,,,,10.208.83.128/25
+253525104438,vpc-69be6512,FWExt-1a,subnet-ca39d980,us-east-1a,use1-az4,,,,,10.208.82.0/25
+342374819998,vpc-82d128fb,inner-subnet (services),subnet-e0ad6fba,us-east-1b,use1-az6,,,,,10.208.191.128/25
+342374819998,vpc-82d128fb,outer-subnet (services),subnet-e855d4a0,us-east-1a,use1-az4,,,,,10.208.191.0/25
+900846234612,vpc-86aa70fe,EMR-Public subnet,subnet-8a44a8a5,us-east-1a,use1-az2,,,,,10.208.194.0/28
+356915518242,vpc-c00cc6a5,poc-public,subnet-ee3e15c6,us-east-1c,use1-az2,,,,,173.31.0.0/16
+900846234612,vpc-c4252abd,QaSvc-Mgmt-1b,subnet-00748c7dd6c62e017,us-east-1b,use1-az4,,,,,10.208.210.192/26
+900846234612,vpc-c4252abd,AppSvc-Private-1b,subnet-1a830251,us-east-1b,use1-az4,,,,,10.208.215.128/25
+900846234612,vpc-c4252abd,QaSvc-Mgmt-1e,subnet-310ede0e,us-east-1e,use1-az3,,,,,10.208.213.0/26
+900846234612,vpc-c4252abd,QaSvc-FWext-1e,subnet-5fbf1860,us-east-1e,use1-az3,,,,,10.208.210.64/26
+900846234612,vpc-c4252abd,QaSvc-FWint-1c,subnet-67e4023a,us-east-1c,use1-az6,,,,,10.208.211.0/26
+900846234612,vpc-c4252abd,QaSvc-F5-Internal-1e,subnet-9b3beba4,us-east-1e,use1-az3,,,,,10.208.213.128/26
+900846234612,vpc-c4252abd,QaSvc-FWext-1c,subnet-bde204e0,us-east-1c,use1-az6,,,,,10.208.210.0/26
+900846234612,vpc-c4252abd,QaSvc-F5-Internal-1c,subnet-c3d4df99,us-east-1c,use1-az6,,,,,10.208.213.192/26
+900846234612,vpc-c4252abd,QaSvc-FWint-1e,subnet-c6b81ff9,us-east-1e,use1-az3,,,,,10.208.211.64/26
+900846234612,vpc-c4252abd,QaSvc-Mgmt-1c,subnet-cadcd790,us-east-1c,use1-az6,,,,,10.208.213.64/26
+900846234612,vpc-c4252abd,AppSvc-Public-1a,subnet-ce2befe1,us-east-1a,use1-az2,,,,,10.208.214.0/25
+900846234612,vpc-c4252abd,QaSvc-F5-External-1c,subnet-d5dcd78f,us-east-1c,use1-az6,,,,,10.208.212.128/25
+900846234612,vpc-c4252abd,QaSvc-F5-External-1e,subnet-f60bdbc9,us-east-1e,use1-az3,,,,,10.208.212.0/25
+900846234612,vpc-c4252abd,AppSvc-Public-1b,subnet-fb8302b0,us-east-1b,use1-az4,,,,,10.208.215.0/25
+342374819998,vpc-c7e536bf,us-east-1a.k8s.aetnagsc.com,subnet-3403a27f,us-east-1a,use1-az4,,,,,10.208.192.32/27
+342374819998,vpc-c7e536bf,us-east-1b.k8s.aetnagsc.com,subnet-7a190220,us-east-1b,use1-az6,,,,,10.208.192.64/27
+342374819998,vpc-c7e536bf,us-east-1c.k8s.aetnagsc.com,subnet-cffb7dab,us-east-1c,use1-az1,,,,,10.208.192.96/27
+900846234612,vpc-cc881fb5,sb-subnet-1a,subnet-2a941f06,us-east-1a,use1-az2,,,,,10.208.110.0/24
+900846234612,vpc-cc881fb5,sb-subnet-1b,subnet-ef3067c3,us-east-1a,use1-az2,,,,,10.208.111.0/24
+900846234612,vpc-d6cc86ae,Container-DHCP-1a,subnet-df7fc7f0,us-east-1a,use1-az2,,,,,10.208.221.0/26
+900846234612,vpc-d6cc86ae,Container-DHCP-1b,subnet-f3a0e7b8,us-east-1b,use1-az4,,,,,10.208.221.64/26
+356915518242,vpc-e8cf2f8e,SHA-Public,subnet-1c862831,us-east-1c,use1-az2,,,,,172.16.1.0/24
+356915518242,vpc-e8cf2f8e,SHA-Private,subnet-cada7891,us-east-1a,use1-az6,,,,,172.16.0.0/24
+058091883721,vpc-ff16d487,AemVpc-PublicAZ2,subnet-7641572c,us-east-1b,use1-az6,,,,,10.208.113.0/24
+058091883721,vpc-ff16d487,AemVpc-PublicAZ1,subnet-e5d408ae,us-east-1a,use1-az4,,,,,10.208.112.0/24
+014923028740,,,,,,,13021,,,
+195275680656,,,,,,,13021,,,
+202717921630,,,,,,,13021,,,
+272488701674,,,,,,,13021,,,
+356507925361,,,,,,,13021,,,
+390403897404,,,,,,,13021,,,
+419767593319,,,,,,,13021,,,
+476346260827,,,,,,,13021,,,
+559917904537,,,,,,,13021,,,
+688567263711,,,,,,,13021,,,
+913880039591,,,,,,,13021,,,
+994939539758,,,,,,,13021,,,
+014923028740,,,,,,,Active Health,,,
+195275680656,,,,,,,Active Health,,,
+202717921630,,,,,,,Active Health,,,
+272488701674,,,,,,,Active Health,,,
+356507925361,,,,,,,Active Health,,,
+390403897404,,,,,,,Active Health,,,
+419767593319,,,,,,,Active Health,,,
+476346260827,,,,,,,Active Health,,,
+559917904537,,,,,,,Active Health,,,
+688567263711,,,,,,,Active Health,,,
+913880039591,,,,,,,Active Health,,,
+994939539758,,,,,,,Active Health,,,
+737513045841,vpc-09d7f6f99d053eeec,SN-P-B-ML-POC-VPC,subnet-0f130982656f685bd,us-east-1b,use1-az4,,Active Health,,,10.208.117.192/27
+014923028740,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+195275680656,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+202717921630,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+272488701674,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+356507925361,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+390403897404,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+419767593319,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+476346260827,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+559917904537,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+688567263711,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+913880039591,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+994939539758,,,,,,,Aetna Health Web,,5F876EA358455FAE,
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-public-subnet-2-pxbmhnrb,subnet-006f969cc3341b9b9,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.10.102.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-public-subnet-4-pxbmhnrb,subnet-02d643b1ff7834929,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.10.104.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-cc-subnet-3-pxbmhnrb,subnet-050c15b155771470f,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.10.202.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-public-subnet-1-pxbmhnrb,subnet-08f2881eb2880dcf7,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.10.101.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-cc-subnet-2-pxbmhnrb,subnet-0bb3e0c10a5b1eef8,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.10.201.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-public-subnet-3-pxbmhnrb,subnet-0c88bd424c025b84a,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.10.103.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-cc-subnet-4-pxbmhnrb,subnet-0d647bfaeb68b9fd3,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.10.203.0/24
+469648917813,vpc-0799108a8b868e6ec,npr-zscc-cc-subnet-1-pxbmhnrb,subnet-0de4efd6889cda2fd,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.10.200.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-public-subnet-4-055zt48c,subnet-06e89e8a92b11342d,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.20.104.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-public-subnet-3-055zt48c,subnet-07063b2536b1bbfa0,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.20.103.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-cc-subnet-2-055zt48c,subnet-074eb406cc9c24ee3,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.20.201.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-public-subnet-1-055zt48c,subnet-0a5e0fd4b5d853b0f,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.20.101.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-cc-subnet-3-055zt48c,subnet-0ab1b0d9fa03a91e3,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.20.202.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-public-subnet-2-055zt48c,subnet-0b1e441c18cc09d04,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.20.102.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-cc-subnet-4-055zt48c,subnet-0e88174873006e82e,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.20.203.0/24
+469648917813,vpc-0e64b8d4146062918,prd-zscc-cc-subnet-1-055zt48c,subnet-0ec985e84a064b013,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.20.200.0/24
+898916586688,vpc-2e779557,DevVpc-Public-1b,subnet-12e51248,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.153.0/24
+898916586688,vpc-2e779557,DevVpc-Public-1a,subnet-43e44e0b,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.152.0/24
+898916586688,vpc-2e779557,DevVpc-Private-1b,subnet-5ee71004,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.156.0/24
+898916586688,vpc-2e779557,DevVpc-Private-1a,subnet-b1e54ff9,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.155.0/24
+898916586688,vpc-2e779557,DevVpc-Private-1c,subnet-d05072b5,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.157.0/24
+898916586688,vpc-2e779557,DevVpc-Public-1c,subnet-f3537196,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.154.0/24
+898916586688,vpc-307a9849,UatVpc-Private-1b,subnet-67e2153d,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.164.0/24
+898916586688,vpc-307a9849,UatVpc-Public-1c,subnet-76577513,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.162.0/24
+898916586688,vpc-307a9849,UatVpc-Public-1a,subnet-84f852cc,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.160.0/24
+898916586688,vpc-307a9849,UatVpc-Public-1b,subnet-9ee116c4,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.161.0/24
+898916586688,vpc-307a9849,UatVpc-Private-1a,subnet-c1fa5089,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.163.0/24
+898916586688,vpc-307a9849,UatVpc-Private-1c,subnet-e45a7881,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.165.0/24
+448145691977,vpc-352fcd4c,LabVpc-Public-1c,subnet-298f7605,us-east-1c,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.100.64.0/20
+448145691977,vpc-352fcd4c,LabVpc-Private-1c,subnet-3088711c,us-east-1c,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.100.80.0/20
+448145691977,vpc-352fcd4c,LabVpc-Private-1a,subnet-52976008,us-east-1a,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.100.16.0/20
+448145691977,vpc-352fcd4c,LabVpc-Private-1b,subnet-896c4eec,us-east-1b,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.100.48.0/20
+448145691977,vpc-352fcd4c,LabVpc-Public-1b,subnet-e86c4e8d,us-east-1b,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.100.32.0/20
+448145691977,vpc-352fcd4c,LabVpc-Public-1a,subnet-fbac5ba1,us-east-1a,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.100.0.0/20
+283993462732,vpc-4674963f,PrdVpc-Private-1c,subnet-16d1283a,us-east-1c,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.208.149.0/24
+283993462732,vpc-4674963f,PrdVpc-Public-1a,subnet-3ce21566,us-east-1a,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.144.0/24
+283993462732,vpc-4674963f,PrdVpc-Public-1c,subnet-7adf2656,us-east-1c,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.208.146.0/24
+283993462732,vpc-4674963f,PrdVpc-Public-1b,subnet-925674f7,us-east-1b,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.145.0/24
+283993462732,vpc-4674963f,PrdVpc-Private-1a,subnet-bee413e4,us-east-1a,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.147.0/24
+283993462732,vpc-4674963f,PrdVpc-Private-1b,subnet-e7527082,us-east-1b,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.148.0/24
+898916586688,vpc-827597fb,StressVpc-Public-1a,subnet-13fb515b,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.136.0/24
+898916586688,vpc-827597fb,StressVpc-Public-1c,subnet-34517351,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.138.0/24
+898916586688,vpc-827597fb,StressVpc-Private-1c,subnet-4d5a7828,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.141.0/24
+898916586688,vpc-827597fb,StressVpc-Private-1b,subnet-5aee1900,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.140.0/24
+898916586688,vpc-827597fb,StressVpc-Public-1b,subnet-86e314dc,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.137.0/24
+898916586688,vpc-827597fb,StressVpc-Private-1a,subnet-dcfa5094,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.139.0/24
+898916586688,vpc-bc7496c5,QaVpc-Private-1a,subnet-89f852c1,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.131.0/24
+898916586688,vpc-bc7496c5,QaVpc-Private-1b,subnet-9ce314c6,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.132.0/24
+898916586688,vpc-bc7496c5,QaVpc-Public-1a,subnet-a5e74ded,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.128.0/24
+898916586688,vpc-bc7496c5,QaVpc-Public-1c,subnet-af5775ca,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.130.0/24
+898916586688,vpc-bc7496c5,QaVpc-Private-1c,subnet-b05072d5,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.133.0/24
+898916586688,vpc-bc7496c5,QaVpc-Public-1b,subnet-b2ef18e8,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.129.0/24
+469648917813,vpc-fd688a84,InfVpc-Private-1d,subnet-01cf99fdd247ca32c,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.208.174.0/25
+469648917813,vpc-fd688a84,InfVpc-Public-1d,subnet-03047379bb09433d4,us-east-1d,use1-az2,,Aetna Health Web,,5F876EA358455FAE,10.208.174.128/25
+469648917813,vpc-fd688a84,InfVpc-Private-1c,subnet-0d4c6e68,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.173.0/24
+469648917813,vpc-fd688a84,InfVpc-Private-1b,subnet-77fa0d2d,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.172.0/24
+469648917813,vpc-fd688a84,InfVpc-Private-1a,subnet-97ed47df,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.171.0/24
+469648917813,vpc-fd688a84,InfVpc-Public-1a,subnet-b4ef45fc,us-east-1a,use1-az4,,Aetna Health Web,,5F876EA358455FAE,10.208.168.0/24
+469648917813,vpc-fd688a84,InfVpc-Public-1b,subnet-d7fd0a8d,us-east-1b,use1-az6,,Aetna Health Web,,5F876EA358455FAE,10.208.169.0/24
+469648917813,vpc-fd688a84,InfVpc-Public-1c,subnet-ec4e6c89,us-east-1c,use1-az1,,Aetna Health Web,,5F876EA358455FAE,10.208.170.0/24
+014923028740,,,,,,,CCF,,ITPR058951,
+195275680656,,,,,,,CCF,,ITPR058951,
+202717921630,,,,,,,CCF,,ITPR058951,
+272488701674,,,,,,,CCF,,ITPR058951,
+356507925361,,,,,,,CCF,,ITPR058951,
+390403897404,,,,,,,CCF,,ITPR058951,
+419767593319,,,,,,,CCF,,ITPR058951,
+476346260827,,,,,,,CCF,,ITPR058951,
+559917904537,,,,,,,CCF,,ITPR058951,
+688567263711,,,,,,,CCF,,ITPR058951,
+913880039591,,,,,,,CCF,,ITPR058951,
+994939539758,,,,,,,CCF,,ITPR058951,
+014923028740,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+195275680656,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+202717921630,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+272488701674,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+356507925361,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+390403897404,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+419767593319,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+476346260827,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+559917904537,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+688567263711,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+913880039591,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+994939539758,,,,,,,Cloud Security IAM on AWS,,APM0013270,
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-private-subnet-az2,subnet-047f346be0d9b5b06,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,100.64.45.0/24
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-private-subnet-az1,subnet-054a204db1d8ab727,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,100.64.44.0/24
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-tgw-subnet-az2,subnet-0568cb83e9513a7b9,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,100.64.46.16/28
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-tgw-subnet-az1,subnet-08efd2ff8abf4226e,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,100.64.46.0/28
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-rfc1918-subnet-az1,subnet-0a90390fe6cfb5597,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,10.107.116.0/27
+772975617512,vpc-094befc5c2ee6168f,vpc-nonprod-tss-cssiam-infra-ue1-rfc1918-subnet-az2,subnet-0a96f30f5ca412aee,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,10.107.116.32/27
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-rfc1918-subnet-az2,subnet-0865fd51aa37c4702,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,10.207.116.32/27
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-private-subnet-az2,subnet-0999afed162d1cc72,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,100.64.69.0/24
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-tgw-subnet-az1,subnet-0bb72adad134c6469,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,100.64.70.0/28
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-private-subnet-az1,subnet-0dc4c94b2fbfe5c5b,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,100.64.68.0/24
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-tgw-subnet-az2,subnet-0ef05782facb1adbb,us-east-1f,use1-az5,,Cloud Security IAM on AWS,,APM0013270,100.64.70.16/28
+772975617512,vpc-0b7f2ae3c7560681a,vpc-nonprod-tss-cssiam-infra-new-ue1-rfc1918-subnet-az1,subnet-0fa2629427f4840b1,us-east-1b,use1-az2,,Cloud Security IAM on AWS,,APM0013270,10.207.116.0/27
+014923028740,,,,,,,EIS Security Tools,,,
+195275680656,,,,,,,EIS Security Tools,,,
+202717921630,,,,,,,EIS Security Tools,,,
+272488701674,,,,,,,EIS Security Tools,,,
+356507925361,,,,,,,EIS Security Tools,,,
+390403897404,,,,,,,EIS Security Tools,,,
+419767593319,,,,,,,EIS Security Tools,,,
+476346260827,,,,,,,EIS Security Tools,,,
+559917904537,,,,,,,EIS Security Tools,,,
+688567263711,,,,,,,EIS Security Tools,,,
+913880039591,,,,,,,EIS Security Tools,,,
+994939539758,,,,,,,EIS Security Tools,,,
+074244117111,vpc-0813315732f3911bb,MCO-Dev-Aetna-subnet-private1-us-east-1a,subnet-015a7aeaad63aa7d2,us-east-1a,use1-az2,,EIS Security Tools,,,10.208.195.32/28
+074244117111,vpc-0813315732f3911bb,MCO-Dev-Aetna-subnet-private2-us-east-1b,subnet-07b3a448239661006,us-east-1b,use1-az4,,EIS Security Tools,,,10.208.195.48/28
+014923028740,,,,,,,Enterprise,,APM0018230,
+195275680656,,,,,,,Enterprise,,APM0018230,
+202717921630,,,,,,,Enterprise,,APM0018230,
+272488701674,,,,,,,Enterprise,,APM0018230,
+356507925361,,,,,,,Enterprise,,APM0018230,
+390403897404,,,,,,,Enterprise,,APM0018230,
+419767593319,,,,,,,Enterprise,,APM0018230,
+476346260827,,,,,,,Enterprise,,APM0018230,
+559917904537,,,,,,,Enterprise,,APM0018230,
+688567263711,,,,,,,Enterprise,,APM0018230,
+913880039591,,,,,,,Enterprise,,APM0018230,
+994939539758,,,,,,,Enterprise,,APM0018230,
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-tgw-subnet-az2,subnet-047b996c8152955f2,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.0.16/28
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-gwlbe-subnet-az1,subnet-0613d2337ac147cb7,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.0.128/26
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-gwlbe-subnet-az2,subnet-068d4ce34430f1a7e,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.0.192/26
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-private-subnet-az1,subnet-0751f55e757a89802,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.8.0/24
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-private-subnet-az2,subnet-086c77c38a07e821e,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.9.0/24
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-public-subnet-az2,subnet-0bc90eb82d9174d82,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.1.64/26
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-tgw-subnet-az1,subnet-0c9fcf0c3e1896fc7,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.0.0/28
+870844658012,vpc-05ed164da6ea3fcd3,vpc-prod-egress-public-subnet-az1,subnet-0defe38580f480f77,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.1.0/26
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-inspection-subnet-az2,subnet-012b4572cd7cee9a2,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.3.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-inspection-subnet-az1,subnet-027e2a0aa89fc80d5,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.2.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-f5-subnet-az1,subnet-05768139f6feca6a7,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.0.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-tgw-subnet-az1,subnet-06762fdec0f9b776d,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.3.0/28
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-public-subnet-az1,subnet-0848643852871ef1f,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.2.0/25
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-f5-subnet-az2,subnet-09d6ee7ba8119faf0,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.1.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-management-subnet-az1,subnet-0a7e83aba17d72ff9,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.4.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-tgw-subnet-az2,subnet-0aa47164d11bb5159,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.3.16/28
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-management-subnet-az2,subnet-0ef53409784e0aba9,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.5.0/24
+870844658012,vpc-084e3746a2002e9eb,vpc-prod-ingress-public-subnet-az2,subnet-0f8f45b51346dbccc,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.2.128/25
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-private-subnet-az2,subnet-046f2e1dec47fa0e0,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.15.0/24
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-private-subnet-az1,subnet-06c019e5d7e6b1e2d,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.14.0/24
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-tgw-subnet-az2,subnet-0a541898cc0ec66d9,us-east-1f,use1-az5,,Enterprise,,APM0018230,100.80.4.16/28
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-tgw-subnet-az1,subnet-0a6a15a97b60e746f,us-east-1d,use1-az6,,Enterprise,,APM0018230,100.80.4.0/28
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-mgmt-subnet-az1,subnet-0aaffdf26bf310963,us-east-1d,use1-az6,,Enterprise,,APM0018230,10.207.12.0/24
+870844658012,vpc-0f3757f32865f0eaa,vpc-prod-net-mgmt-subnet-az2,subnet-0e019f241bc241d1f,us-east-1f,use1-az5,,Enterprise,,APM0018230,10.207.13.0/24
+014923028740,,,,,,,Enterprise cloudengineering team,,APM0018230,
+195275680656,,,,,,,Enterprise cloudengineering team,,APM0018230,
+202717921630,,,,,,,Enterprise cloudengineering team,,APM0018230,
+272488701674,,,,,,,Enterprise cloudengineering team,,APM0018230,
+356507925361,,,,,,,Enterprise cloudengineering team,,APM0018230,
+390403897404,,,,,,,Enterprise cloudengineering team,,APM0018230,
+419767593319,,,,,,,Enterprise cloudengineering team,,APM0018230,
+476346260827,,,,,,,Enterprise cloudengineering team,,APM0018230,
+559917904537,,,,,,,Enterprise cloudengineering team,,APM0018230,
+688567263711,,,,,,,Enterprise cloudengineering team,,APM0018230,
+913880039591,,,,,,,Enterprise cloudengineering team,,APM0018230,
+994939539758,,,,,,,Enterprise cloudengineering team,,APM0018230,
+416684166242,vpc-02c84ad3587266722,vpc-prod-sharedservices-rfc1918-subnet-az2,subnet-0199e50398089556e,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,10.207.18.128/25
+416684166242,vpc-02c84ad3587266722,vpc-prod-sharedservices-tgw-subnet-az2,subnet-0899f8748e0cac032,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,100.80.36.16/28
+416684166242,vpc-02c84ad3587266722,vpc-prod-sharedservices-tgw-subnet-az1,subnet-0a1b3c88cd02a971d,us-east-1d,use1-az6,,Enterprise cloudengineering team,,APM0018230,100.80.36.0/28
+416684166242,vpc-02c84ad3587266722,vpc-prod-sharedservices-rfc1918-subnet-az1,subnet-0f6dd1515b92664eb,us-east-1d,use1-az6,,Enterprise cloudengineering team,,APM0018230,10.207.18.0/25
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-tgw-subnet-az1,subnet-053ee8352e40db0d1,us-east-1b,use1-az2,,Enterprise cloudengineering team,,APM0018230,100.64.62.0/28
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-tgw-subnet-az2,subnet-05ff9ed39f745c683,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,100.64.62.16/28
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-private-subnet-az2,subnet-065e688aaa30b8365,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,100.64.61.0/24
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-private-subnet-az1,subnet-088940d812fc5f352,us-east-1b,use1-az2,,Enterprise cloudengineering team,,APM0018230,100.64.60.0/24
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-rfc1918-subnet-az1,subnet-092168a5e3136f2bb,us-east-1b,use1-az2,,Enterprise cloudengineering team,,APM0018230,10.207.117.0/27
+042831095467,vpc-0b894f6b68f788d1f,vpc-nonprod-EnterpriseCloudEng-Ue1-rfc1918-subnet-az2,subnet-0fceb2551ab466cc5,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,10.207.117.32/27
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-private-subnet-az1,subnet-002259ff954bcae8d,us-east-1d,use1-az2,,Enterprise cloudengineering team,,APM0018230,100.80.44.0/24
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-tgw-subnet-az2,subnet-050dfb256b345f7e2,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,100.80.46.16/28
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-private-subnet-az2,subnet-076f635c58559cfc3,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,100.80.45.0/24
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-rfc1918-subnet-az1,subnet-0af344362818af695,us-east-1d,use1-az2,,Enterprise cloudengineering team,,APM0018230,10.207.108.0/25
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-tgw-subnet-az1,subnet-0be75ecedbea620a5,us-east-1d,use1-az2,,Enterprise cloudengineering team,,APM0018230,100.80.46.0/28
+154734172190,vpc-0b9f57d2637698df6,vpc-nonprod-EnterpriseCloudEng-Ue1-rfc1918-subnet-az2,subnet-0d04d8456dad6a6f7,us-east-1f,use1-az5,,Enterprise cloudengineering team,,APM0018230,10.207.108.128/25
+014923028740,,,,,,,Enterprise Kafka Platform,,APM0014885,
+195275680656,,,,,,,Enterprise Kafka Platform,,APM0014885,
+202717921630,,,,,,,Enterprise Kafka Platform,,APM0014885,
+272488701674,,,,,,,Enterprise Kafka Platform,,APM0014885,
+356507925361,,,,,,,Enterprise Kafka Platform,,APM0014885,
+390403897404,,,,,,,Enterprise Kafka Platform,,APM0014885,
+419767593319,,,,,,,Enterprise Kafka Platform,,APM0014885,
+476346260827,,,,,,,Enterprise Kafka Platform,,APM0014885,
+559917904537,,,,,,,Enterprise Kafka Platform,,APM0014885,
+688567263711,,,,,,,Enterprise Kafka Platform,,APM0014885,
+913880039591,,,,,,,Enterprise Kafka Platform,,APM0014885,
+994939539758,,,,,,,Enterprise Kafka Platform,,APM0014885,
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-tgw-subnet-az1,subnet-004f5477335663387,us-east-1b,use1-az2,,Enterprise Kafka Platform,,APM0014885,100.64.22.0/28
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-tgw-subnet-az2,subnet-0197432549f4f441a,us-east-1f,use1-az5,,Enterprise Kafka Platform,,APM0014885,100.64.22.16/28
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-private-subnet-az3,subnet-02cd0b99398ffc341,us-east-1c,use1-az4,,Enterprise Kafka Platform,,APM0014885,100.64.21.0/25
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-rfc1918-subnet-az1,subnet-05d1ea2d7dbffc64b,us-east-1b,use1-az2,,Enterprise Kafka Platform,,APM0014885,10.207.113.0/27
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-rfc1918-subnet-az2,subnet-0a20e818e893751e8,us-east-1f,use1-az5,,Enterprise Kafka Platform,,APM0014885,10.207.113.32/27
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-private-subnet-az1,subnet-0b6b7ab510aa65015,us-east-1b,use1-az2,,Enterprise Kafka Platform,,APM0014885,100.64.20.0/25
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-rfc1918-subnet-az3,subnet-0bb49b6515cd9f0c1,us-east-1c,use1-az4,,Enterprise Kafka Platform,,APM0014885,10.207.113.64/27
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-private-subnet-az2,subnet-0cd5ce0ef045ad320,us-east-1f,use1-az5,,Enterprise Kafka Platform,,APM0014885,100.64.20.128/25
+029643846730,vpc-02a006a9aa395566d,vpc-nonprod-EnterpriseKafka-Ue1-tgw-subnet-az3,subnet-0e9b3ce190b69c4ff,us-east-1c,use1-az4,,Enterprise Kafka Platform,,APM0014885,100.64.22.32/28
+014923028740,,,,,,,Enterprise KONG,,APM0017355,
+195275680656,,,,,,,Enterprise KONG,,APM0017355,
+202717921630,,,,,,,Enterprise KONG,,APM0017355,
+272488701674,,,,,,,Enterprise KONG,,APM0017355,
+356507925361,,,,,,,Enterprise KONG,,APM0017355,
+390403897404,,,,,,,Enterprise KONG,,APM0017355,
+419767593319,,,,,,,Enterprise KONG,,APM0017355,
+476346260827,,,,,,,Enterprise KONG,,APM0017355,
+559917904537,,,,,,,Enterprise KONG,,APM0017355,
+688567263711,,,,,,,Enterprise KONG,,APM0017355,
+913880039591,,,,,,,Enterprise KONG,,APM0017355,
+994939539758,,,,,,,Enterprise KONG,,APM0017355,
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-private-subnet-az1,subnet-073947b9375876900,us-east-1b,use1-az2,,Enterprise KONG,,APM0017355,100.64.52.0/24
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-rfc1918-subnet-az1,subnet-08af626ad85fe0819,us-east-1b,use1-az2,,Enterprise KONG,,APM0017355,10.207.116.128/27
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-rfc1918-subnet-az2,subnet-0b4aa808cbce524b5,us-east-1f,use1-az5,,Enterprise KONG,,APM0017355,10.207.116.160/27
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-tgw-subnet-az2,subnet-0b9d14229a677b007,us-east-1f,use1-az5,,Enterprise KONG,,APM0017355,100.64.54.16/28
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-tgw-subnet-az1,subnet-0c54208f11ac36fa8,us-east-1b,use1-az2,,Enterprise KONG,,APM0017355,100.64.54.0/28
+501970550237,vpc-09d90c71415ab6eec,vpc-nonprod-EnterpriseKONG-Ue1-private-subnet-az2,subnet-0e077879e4a65d4c1,us-east-1f,use1-az5,,Enterprise KONG,,APM0017355,100.64.53.0/24
+014923028740,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+195275680656,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+202717921630,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+272488701674,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+356507925361,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+390403897404,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+419767593319,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+476346260827,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+559917904537,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+688567263711,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+913880039591,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+994939539758,,,,,,,Individual Profile and Preferences V2,,APM0006894,
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-tgw-subnet-az2,subnet-00eb57b9a203e0ec1,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,100.64.30.16/28
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-rfc1918-subnet-az2,subnet-0240f76f7edbf6b66,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,10.207.107.32/27
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-tgw-subnet-az1,subnet-03357b0fcf27c52a1,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,100.64.30.0/28
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-rfc1918-subnet-az1,subnet-0383a2b49c91ca6d7,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,10.207.107.0/27
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-private-subnet-az1,subnet-07bdffff5227a70cb,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,100.64.28.0/24
+200222959879,vpc-0636ad2f3ba474ac7,vpc-nonprod-Aetna-TrxCache-IPP-QA-Ue1-private-subnet-az2,subnet-094bcac3df6075fb4,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,100.64.29.0/24
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-rfc1918-subnet-az2,subnet-00ecf1f6d569b92e6,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,10.207.107.160/27
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-private-subnet-az1,subnet-06d7a30b10d7fd5d8,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,100.64.36.0/24
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-private-subnet-az2,subnet-0a44eae65b2e6e978,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,100.64.37.0/24
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-rfc1918-subnet-az1,subnet-0b41eced7425c37b5,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,10.207.107.128/27
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-tgw-subnet-az2,subnet-0dffc2ee098dcebc6,us-east-1f,use1-az5,,Individual Profile and Preferences V2,,APM0006894,100.64.38.16/28
+088167543240,vpc-0f5f903e9668ad847,vpc-nonprod-Aetna-TrxCache-IPP-Dev-Ue1-tgw-subnet-az1,subnet-0e13a55b796c1c24e,us-east-1b,use1-az2,,Individual Profile and Preferences V2,,APM0006894,100.64.38.0/28
+014923028740,,,,,,,nosqldb,,7998A45F637466CE,
+195275680656,,,,,,,nosqldb,,7998A45F637466CE,
+202717921630,,,,,,,nosqldb,,7998A45F637466CE,
+272488701674,,,,,,,nosqldb,,7998A45F637466CE,
+356507925361,,,,,,,nosqldb,,7998A45F637466CE,
+390403897404,,,,,,,nosqldb,,7998A45F637466CE,
+419767593319,,,,,,,nosqldb,,7998A45F637466CE,
+476346260827,,,,,,,nosqldb,,7998A45F637466CE,
+559917904537,,,,,,,nosqldb,,7998A45F637466CE,
+688567263711,,,,,,,nosqldb,,7998A45F637466CE,
+913880039591,,,,,,,nosqldb,,7998A45F637466CE,
+994939539758,,,,,,,nosqldb,,7998A45F637466CE,
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-tgw-subnet-az1,subnet-054f689bf6b58f312,us-east-1b,use1-az2,,nosqldb,,7998A45F637466CE,100.64.16.128/28
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-tgw-subnet-az2,subnet-0647e78ef1d9b5b16,us-east-1f,use1-az5,,nosqldb,,7998A45F637466CE,100.64.16.144/28
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-private-subnet-az1,subnet-0ac329a4257d6ce52,us-east-1b,use1-az2,,nosqldb,,7998A45F637466CE,100.64.16.0/26
+735490343935,vpc-0552a005fdb1ff03a,vpc-nonprod-PE-DBE-ENBL-AUT-UE1-private-subnet-az2,subnet-0b7c81ef7edba3ced,us-east-1f,use1-az5,,nosqldb,,7998A45F637466CE,100.64.16.64/26
+014923028740,,,,,,,OTIA EAP,,APM0009332,
+195275680656,,,,,,,OTIA EAP,,APM0009332,
+202717921630,,,,,,,OTIA EAP,,APM0009332,
+272488701674,,,,,,,OTIA EAP,,APM0009332,
+356507925361,,,,,,,OTIA EAP,,APM0009332,
+390403897404,,,,,,,OTIA EAP,,APM0009332,
+419767593319,,,,,,,OTIA EAP,,APM0009332,
+476346260827,,,,,,,OTIA EAP,,APM0009332,
+559917904537,,,,,,,OTIA EAP,,APM0009332,
+688567263711,,,,,,,OTIA EAP,,APM0009332,
+913880039591,,,,,,,OTIA EAP,,APM0009332,
+994939539758,,,,,,,OTIA EAP,,APM0009332,
+611065234800,vpc-014bd091b8516223c,CVS-OTIA-Dev-subnet-private1-us-east-1a,subnet-04aff0e8456fe39e4,us-east-1a,use1-az6,,OTIA EAP,,APM0009332,10.173.20.160/28
+611065234800,vpc-014bd091b8516223c,CVS-OTIA-Dev-subnet-private2-us-east-1b,subnet-090936da6ac697182,us-east-1b,use1-az1,,OTIA EAP,,APM0009332,10.173.20.176/28
+557690599749,vpc-06122a954fb01c3a0,wiz-outpost-prod-private-subnet-2,subnet-0a21d17ad56323642,us-east-1b,use1-az1,,Wiz Security Platform,,APM0016077,10.174.126.0/23
+557690599749,vpc-06122a954fb01c3a0,wiz-outpost-prod-private-subnet-1,subnet-0dd332d22df7ff4cf,us-east-1a,use1-az6,,Wiz Security Platform,,APM0016077,10.174.124.0/23
+014923028740,,,,,,dash,,APM0004309,,
+195275680656,,,,,,dash,,APM0004309,,
+202717921630,,,,,,dash,,APM0004309,,
+272488701674,,,,,,dash,,APM0004309,,
+356507925361,,,,,,dash,,APM0004309,,
+390403897404,,,,,,dash,,APM0004309,,
+419767593319,,,,,,dash,,APM0004309,,
+476346260827,,,,,,dash,,APM0004309,,
+559917904537,,,,,,dash,,APM0004309,,
+688567263711,,,,,,dash,,APM0004309,,
+913880039591,,,,,,dash,,APM0004309,,
+994939539758,,,,,,dash,,APM0004309,,
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1a-tgw-central,subnet-0057f17d59eb16902,us-east-1a,use1-az1,dash,,APM0004309,,172.28.31.128/28
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1c-tgw-central,subnet-01c46288545d27a79,us-east-1c,use1-az4,dash,,APM0004309,,172.28.31.160/28
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1b-database,subnet-05e0eb280d498e2d0,us-east-1b,use1-az2,dash,,APM0004309,,172.28.26.0/23
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1c-database,subnet-073a4bd89d20b9619,us-east-1c,use1-az4,dash,,APM0004309,,172.28.28.0/23
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1a-database,subnet-089fd164c1491373b,us-east-1a,use1-az1,dash,,APM0004309,,172.28.24.0/23
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1c-private,subnet-0974c081b76e24985,us-east-1c,use1-az4,dash,,APM0004309,,172.28.16.0/21
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1b-tgw-central,subnet-0c94a09c881493808,us-east-1b,use1-az2,dash,,APM0004309,,172.28.31.144/28
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1b-private,subnet-0d670d0d223e5fcf5,us-east-1b,use1-az2,dash,,APM0004309,,172.28.8.0/21
+979033027167,vpc-011699b3a65bcdeb2,processing-us-east-1-1a-private,subnet-0f4855d57418a1ea9,us-east-1a,use1-az1,dash,,APM0004309,,172.28.0.0/21
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1a-private,subnet-00ff348b53266ea02,us-east-1a,use1-az1,dash,,APM0004309,,172.29.0.0/19
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1c-private,subnet-017f1629a21635c9e,us-east-1c,use1-az4,dash,,APM0004309,,172.29.64.0/19
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1c-tgw-central,subnet-05ad11d0b0bdebd00,us-east-1c,use1-az4,dash,,APM0004309,,172.29.96.32/28
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1b-tgw-central,subnet-09ec57fa853788bfc,us-east-1b,use1-az2,dash,,APM0004309,,172.29.96.16/28
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1a-tgw-central,subnet-0e0d8f1af138ca269,us-east-1a,use1-az1,dash,,APM0004309,,172.29.96.0/28
+979033027167,vpc-02d40a7a8a830d3a9,databricks-us-east-1-1b-private,subnet-0f76adaa3fcadd09c,us-east-1b,use1-az2,dash,,APM0004309,,172.29.32.0/19
+979033027167,vpc-0409127a1e473b4d0,egress-us-east-1-1a-public,subnet-0160241adbbb32f76,us-east-1a,use1-az1,dash,,APM0004309,,172.17.1.0/24
+979033027167,vpc-0409127a1e473b4d0,egress-us-east-1-1a-private,subnet-016f91977b35c7613,us-east-1a,use1-az1,dash,,APM0004309,,172.17.11.0/24
+979033027167,vpc-0409127a1e473b4d0,egress-us-east-1-1c-public,subnet-0411446fb829139ee,us-east-1c,use1-az4,dash,,APM0004309,,172.17.2.0/24
+979033027167,vpc-0409127a1e473b4d0,egress-us-east-1-1c-private,subnet-0fd8224e70420aa0f,us-east-1c,use1-az4,dash,,APM0004309,,172.17.12.0/24
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1a-private,subnet-0514fc65e97801bcc,us-east-1a,use1-az1,dash,,APM0004309,,10.174.55.0/26
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1c-tgw-central,subnet-074d1960003b5d163,us-east-1c,use1-az4,dash,,APM0004309,,10.174.55.240/28
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1c-tgw-secure-hub,subnet-0765d9b9c000a8a5b,us-east-1c,use1-az4,dash,,APM0004309,,10.174.55.224/28
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1b-private,subnet-08a5c5f406f033566,us-east-1b,use1-az2,dash,,APM0004309,,10.174.55.64/26
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1c-private,subnet-099539109cb2f03b7,us-east-1c,use1-az4,dash,,APM0004309,,10.174.55.128/27
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1b-tgw-secure-hub,subnet-0b8dbcac190e4ecb7,us-east-1b,use1-az2,dash,,APM0004309,,10.174.55.192/28
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1a-tgw-central,subnet-0ba812459dcbb3fd8,us-east-1a,use1-az1,dash,,APM0004309,,10.174.55.176/28
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1a-tgw-secure-hub,subnet-0d57d949f52ce2987,us-east-1a,use1-az1,dash,,APM0004309,,10.174.55.160/28
+979033027167,vpc-044c369d7299942e7,secure-hub-us-east-1-1b-tgw-central,subnet-0f9b80bf6a57e66e9,us-east-1b,use1-az2,dash,,APM0004309,,10.174.55.208/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1b-tgw-central,subnet-03141fbdbf116e1b5,us-east-1b,use1-az4,dash,,APM0004309,,10.174.52.208/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1a-tgw-central,subnet-031efc5610553ad42,us-east-1a,use1-az2,dash,,APM0004309,,10.174.52.176/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1a-private,subnet-041ea09ebd1c48180,us-east-1a,use1-az2,dash,,APM0004309,,10.174.52.0/26
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1c-tgw-secure-hub,subnet-06aa264346bb5dbc4,us-east-1c,use1-az6,dash,,APM0004309,,10.174.52.224/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1a-tgw-secure-hub,subnet-075dd2fed647444f3,us-east-1a,use1-az2,dash,,APM0004309,,10.174.52.160/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1b-private,subnet-09dd88cf23aca1b29,us-east-1b,use1-az4,dash,,APM0004309,,10.174.52.64/26
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1c-private,subnet-0bdb3decc768c76bd,us-east-1c,use1-az6,dash,,APM0004309,,10.174.52.128/27
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1b-tgw-secure-hub,subnet-0d61190b2110644b3,us-east-1b,use1-az4,dash,,APM0004309,,10.174.52.192/28
+917001611062,vpc-04577d5166eb5f12d,secure-hub-us-east-1-1c-tgw-central,subnet-0f18ef039b6596f16,us-east-1c,use1-az6,dash,,APM0004309,,10.174.52.240/28
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1b-database,subnet-003e80185fc81cd26,us-east-1b,use1-az1,dash,,APM0004309,,172.24.26.0/23
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1a-tgw-central,subnet-00a093feb5b0666ad,us-east-1a,use1-az6,dash,,APM0004309,,172.24.31.128/28
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1a-private,subnet-067637b636e32e583,us-east-1a,use1-az6,dash,,APM0004309,,172.24.0.0/21
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1b-private,subnet-071e3e336740f439d,us-east-1b,use1-az1,dash,,APM0004309,,172.24.8.0/21
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1a-database,subnet-0937cd7c5e8807b56,us-east-1a,use1-az6,dash,,APM0004309,,172.24.24.0/23
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1c-tgw-central,subnet-0a84d4d7512db3572,us-east-1c,use1-az2,dash,,APM0004309,,172.24.31.160/28
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1b-tgw-central,subnet-0c94d5ae204fce06d,us-east-1b,use1-az1,dash,,APM0004309,,172.24.31.144/28
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1c-database,subnet-0de2df54cfb8eaf57,us-east-1c,use1-az2,dash,,APM0004309,,172.24.28.0/23
+230422995960,vpc-06b0a2d4e9b918872,processing-us-east-1-1c-private,subnet-0ff937824b220367e,us-east-1c,use1-az2,dash,,APM0004309,,172.24.16.0/21
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1c-private,subnet-016d98014d2c180d1,us-east-1c,use1-az4,dash,,APM0004309,,172.18.64.0/19
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1b-tgw-central,subnet-01fa62384e48687b2,us-east-1b,use1-az2,dash,,APM0004309,,172.18.96.16/28
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1b-private,subnet-07727ba18441d4671,us-east-1b,use1-az2,dash,,APM0004309,,172.18.32.0/19
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1c-tgw-central,subnet-091c50110e051f3a2,us-east-1c,use1-az4,dash,,APM0004309,,172.18.96.32/28
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1a-private,subnet-0d34bcf14af31c487,us-east-1a,use1-az1,dash,,APM0004309,,172.18.0.0/19
+117418669214,vpc-088cc4c16a46269fb,databricks-us-east-1-1a-tgw-central,subnet-0dc5940828fa07f88,us-east-1a,use1-az1,dash,,APM0004309,,172.18.96.0/28
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1a-private,subnet-0123e33eebc516297,us-east-1a,use1-az1,dash,,APM0004309,,10.208.223.0/25
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1c-private,subnet-025caca5f0708a533,us-east-1c,use1-az4,dash,,APM0004309,,10.208.223.128/25
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1b-private,subnet-050eb26380cddaf49,us-east-1b,use1-az2,dash,,APM0004309,,10.208.32.0/25
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1b-tgw-central,subnet-0690714d2379b1acc,us-east-1b,use1-az2,dash,,APM0004309,,10.208.32.144/28
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1a-tgw-central,subnet-06e9a8402aad7d11c,us-east-1a,use1-az1,dash,,APM0004309,,10.208.32.128/28
+979033027167,vpc-0a07d86c31f4cad06,on-prem-us-east-1-1c-tgw-central,subnet-0d3301688326f970f,us-east-1c,use1-az4,dash,,APM0004309,,10.208.32.160/28
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1c-private,subnet-01d553eb240e35947,us-east-1c,use1-az6,dash,,APM0004309,,172.20.16.0/21
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1a-private,subnet-03b44e946c3c3c170,us-east-1a,use1-az2,dash,,APM0004309,,172.20.0.0/21
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1b-tgw-central,subnet-05701fece8db63201,us-east-1b,use1-az4,dash,,APM0004309,,172.20.31.144/28
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1b-private,subnet-06048039a8e7d1a84,us-east-1b,use1-az4,dash,,APM0004309,,172.20.8.0/21
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1c-tgw-central,subnet-0c9e6486c9b3e9742,us-east-1c,use1-az6,dash,,APM0004309,,172.20.31.160/28
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1a-tgw-central,subnet-0cdda7095e2cf5e14,us-east-1a,use1-az2,dash,,APM0004309,,172.20.31.128/28
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1b-database,subnet-0d47abc52d73c9256,us-east-1b,use1-az4,dash,,APM0004309,,172.20.26.0/23
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1a-database,subnet-0f48d5a30c4554027,us-east-1a,use1-az2,dash,,APM0004309,,172.20.24.0/23
+917001611062,vpc-0b3bf1a681eada16d,processing-us-east-1-1c-database,subnet-0f5fb413595880f8c,us-east-1c,use1-az6,dash,,APM0004309,,172.20.28.0/23
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1a-database,subnet-02bdc9b234fe9a1f0,us-east-1a,use1-az1,dash,,APM0004309,,172.19.24.0/23
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1b-database,subnet-035cb54474b01bb5e,us-east-1b,use1-az2,dash,,APM0004309,,172.19.26.0/23
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1c-private,subnet-04f3283aa03737b54,us-east-1c,use1-az4,dash,,APM0004309,,172.19.16.0/21
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1b-private,subnet-07514c45919ba0edc,us-east-1b,use1-az2,dash,,APM0004309,,172.19.8.0/21
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1c-database,subnet-080ee165e77936407,us-east-1c,use1-az4,dash,,APM0004309,,172.19.28.0/23
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1a-private,subnet-08f58be502f6a3c44,us-east-1a,use1-az1,dash,,APM0004309,,172.19.0.0/21
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1c-tgw-central,subnet-09f062e97750c7a99,us-east-1c,use1-az4,dash,,APM0004309,,172.19.31.160/28
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1b-tgw-central,subnet-0c6907c21f6b9c9a4,us-east-1b,use1-az2,dash,,APM0004309,,172.19.31.144/28
+117418669214,vpc-0b503dfc08fdae775,processing-us-east-1-1a-tgw-central,subnet-0cd5ab9650affc95a,us-east-1a,use1-az1,dash,,APM0004309,,172.19.31.128/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1a-tgw-central,subnet-00c17b69ab0cea0c4,us-east-1a,use1-az1,dash,,APM0004309,,10.174.54.176/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1b-private,subnet-01842442726042019,us-east-1b,use1-az2,dash,,APM0004309,,10.174.54.64/26
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1c-tgw-secure-hub,subnet-0373507776b1e5c08,us-east-1c,use1-az4,dash,,APM0004309,,10.174.54.224/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1b-tgw-secure-hub,subnet-03e1ef12f55f62e62,us-east-1b,use1-az2,dash,,APM0004309,,10.174.54.192/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1a-tgw-secure-hub,subnet-05c4cc480383f7418,us-east-1a,use1-az1,dash,,APM0004309,,10.174.54.160/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1c-tgw-central,subnet-05e1d5e406df1b1fd,us-east-1c,use1-az4,dash,,APM0004309,,10.174.54.240/28
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1a-private,subnet-0b9b1f569e877b3df,us-east-1a,use1-az1,dash,,APM0004309,,10.174.54.0/26
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1c-private,subnet-0e027f4f5718fb397,us-east-1c,use1-az4,dash,,APM0004309,,10.174.54.128/27
+117418669214,vpc-0c473ee8350c6fa3b,secure-hub-us-east-1-1b-tgw-central,subnet-0f6675569ea0b7bd9,us-east-1b,use1-az2,dash,,APM0004309,,10.174.54.208/28
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1b-tgw-central,subnet-0128478bb2b723e1a,us-east-1b,use1-az4,dash,,APM0004309,,172.21.0.208/28
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1a-tgw-central,subnet-052318ffdecb15dd7,us-east-1a,use1-az2,dash,,APM0004309,,172.21.0.192/28
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1c-endpoint,subnet-055f268b0d0732cb8,us-east-1c,use1-az6,dash,,APM0004309,,172.21.0.128/26
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1c-tgw-central,subnet-05f26aad8adda3fe0,us-east-1c,use1-az6,dash,,APM0004309,,172.21.0.224/28
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1b-endpoint,subnet-08daeec372e03c124,us-east-1b,use1-az4,dash,,APM0004309,,172.21.0.64/26
+917001611062,vpc-0d0c3c1d6488764d6,endpoints-us-east-1-1a-endpoint,subnet-0c94bb2dd89347e1e,us-east-1a,use1-az2,dash,,APM0004309,,172.21.0.0/26
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1c-tgw-central,subnet-0226fad151f5dbd26,us-east-1c,use1-az2,dash,,APM0004309,,10.174.51.240/28
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1a-tgw-central,subnet-05af84e91f17b2d34,us-east-1a,use1-az6,dash,,APM0004309,,10.174.51.176/28
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1c-private,subnet-0666b900cea95fc06,us-east-1c,use1-az2,dash,,APM0004309,,10.174.51.0/25
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1b-tgw-secure-hub,subnet-072f0602f0c258bef,us-east-1b,use1-az1,dash,,APM0004309,,10.174.51.192/28
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1b-private,subnet-095235605b6fabd5a,us-east-1b,use1-az1,dash,,APM0004309,,10.174.50.128/25
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1a-private,subnet-0bc20230ca2ef8807,us-east-1a,use1-az6,dash,,APM0004309,,10.174.50.0/25
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1b-tgw-central,subnet-0c4edf59587f8ef3c,us-east-1b,use1-az1,dash,,APM0004309,,10.174.51.208/28
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1a-tgw-secure-hub,subnet-0e63e7c8993d93cd6,us-east-1a,use1-az6,dash,,APM0004309,,10.174.51.160/28
+230422995960,vpc-0d6d3c1eb1ffe4644,secure-hub-us-east-1-1c-tgw-secure-hub,subnet-0f17eba9d12e23c2b,us-east-1c,use1-az2,dash,,APM0004309,,10.174.51.224/28
+117418669214,vpc-0e14d2dabe41e1c05,egress-us-east-1-1a-private,subnet-007125ceb878cd7e2,us-east-1a,use1-az1,dash,,APM0004309,,172.16.11.0/24
+117418669214,vpc-0e14d2dabe41e1c05,egress-us-east-1-1c-private,subnet-007d2a0d638caf546,us-east-1c,use1-az4,dash,,APM0004309,,172.16.12.0/24
+117418669214,vpc-0e14d2dabe41e1c05,egress-us-east-1-1c-public,subnet-0c6e24e106c04c83c,us-east-1c,use1-az4,dash,,APM0004309,,172.16.2.0/24
+117418669214,vpc-0e14d2dabe41e1c05,egress-us-east-1-1a-public,subnet-0de7ab5fe4f7266c2,us-east-1a,use1-az1,dash,,APM0004309,,172.16.1.0/24
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1a-private,subnet-000bc816b8a9b8828,us-east-1a,use1-az6,dash,,APM0004309,,172.25.0.0/19
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1b-private,subnet-08e863869c8d6abd0,us-east-1b,use1-az1,dash,,APM0004309,,172.25.32.0/19
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1b-tgw-central,subnet-0acf25d8453d0cc61,us-east-1b,use1-az1,dash,,APM0004309,,172.25.96.16/28
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1a-tgw-central,subnet-0ad0beb0d2a1df543,us-east-1a,use1-az6,dash,,APM0004309,,172.25.96.0/28
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1c-tgw-central,subnet-0cddf25f47b0eacbc,us-east-1c,use1-az2,dash,,APM0004309,,172.25.96.32/28
+230422995960,vpc-0eabbf355b7928562,databricks-us-east-1-1c-private,subnet-0e12662f36b0cbf28,us-east-1c,use1-az2,dash,,APM0004309,,172.25.64.0/19
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1a-tgw-central,subnet-0142f18bf8e5c1fb4,us-east-1a,use1-az1,dash,,APM0004309,,10.208.64.0/28
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1b-private,subnet-048f4de772a711c41,us-east-1b,use1-az2,dash,,APM0004309,,10.208.65.0/25
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1c-tgw-central,subnet-07712b43eaaa32c3a,us-east-1c,use1-az4,dash,,APM0004309,,10.208.64.32/28
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1c-private,subnet-07ba79ac1b616d511,us-east-1c,use1-az4,dash,,APM0004309,,10.208.63.128/25
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1b-tgw-central,subnet-09703244900606c1e,us-east-1b,use1-az2,dash,,APM0004309,,10.208.64.16/28
+117418669214,vpc-0fd1fd259ced10997,on-prem-us-east-1-1a-private,subnet-0c9abd3b2544e456e,us-east-1a,use1-az1,dash,,APM0004309,,10.208.63.0/25
